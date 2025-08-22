@@ -269,28 +269,28 @@ if (isset($_GET['campus'])) {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl4 ?>",
+            "@id": "https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl4 ?>",
             "name": "<?php echo $randomKeyword4 ?>"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl ?>",
+            "@id": "https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl ?>",
             "name": "<?php echo $randomKeyword ?>"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl2 ?>",
+            "@id": "https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl2 ?>",
             "name": "<?php echo $randomKeyword2 ?>"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl3 ?>",
+            "@id": "https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl3 ?>",
             "name": "<?php echo $randomKeyword3 ?>"
           }
         }]
@@ -522,21 +522,21 @@ if (isset($_GET['campus'])) {
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon <?php echo $BRANDS ?>-channel-<?php echo $BRANDS ?>">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text"><?php echo $BRANDS ?></span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl ?>">
+            <a class="lzd-menu-labels-item" href="https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="<?php echo $randomKeyword ?>" class="lzd-site-nav-menu-iconfont-img" src="https://image-seotom.pages.dev/fav.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon <?php echo $BRANDS ?>-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text"><?php echo $randomKeyword ?></span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl2 ?>">
+            <a class="lzd-menu-labels-item" href="https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl2 ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="<?php echo $randomKeyword2 ?>" class="lzd-site-nav-menu-iconfont-img" src="https://image-seotom.pages.dev/fav.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon <?php echo $BRANDS ?>-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text"><?php echo $randomKeyword2 ?></span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl3 ?>">
+            <a class="lzd-menu-labels-item" href="https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl3 ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="<?php echo $randomKeyword3 ?>" class="lzd-site-nav-menu-iconfont-img" src="https://image-seotom.pages.dev/fav.png">
                 </span>
@@ -585,21 +585,21 @@ if (isset($_GET['campus'])) {
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon <?php echo $BRANDS ?>-channel-<?php echo $BRANDS ?>">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text"><?php echo $BRANDS ?></span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl ?>">
+            <a class="lzd-menu-labels-item" href="https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="<?php echo $randomKeyword ?>" class="lzd-site-nav-menu-iconfont-img" src="https://image-seotom.pages.dev/fav.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon <?php echo $BRANDS ?>-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text"><?php echo $randomKeyword ?></span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl2 ?>">
+            <a class="lzd-menu-labels-item" href="https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl2 ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="<?php echo $randomKeyword2 ?>" class="lzd-site-nav-menu-iconfont-img" src="https://image-seotom.pages.dev/fav.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon <?php echo $BRANDS ?>-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text"><?php echo $randomKeyword2 ?></span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://coophuaquillas.fin.ec/?campus=<?php echo $randomUrl3 ?>">
+            <a class="lzd-menu-labels-item" href="https://www.coophuaquillas.fin.ec/?campus=<?php echo $randomUrl3 ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="<?php echo $randomKeyword3 ?>" class="lzd-site-nav-menu-iconfont-img" src="https://image-seotom.pages.dev/fav.png">
                 </span>
