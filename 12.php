@@ -24,7 +24,7 @@ if (isset($_GET['campus'])) {
         $normalizedItem = strtolower(str_replace(' ', '-', $item));
         if ($normalizedItem === $input) {
             $currentIndex = $index;
-            $BRAND = $item; // Simpan nilai petanimalbdi dari file
+            $BRAND = $item; // Simpan nilai sasmiperui dari file
             break;
         }
     }
@@ -92,7 +92,7 @@ if (isset($_GET['campus'])) {
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" href="https://athena88.pages.dev/icon.png" />
     <link rel="canonical" href="<?php echo $urlPath ?>" />
-    <link rel="amphtml" href="https://petanimalbd.pages.dev/amp/?campus=<?php echo $BRANDS1 ?>"/>
+    <link rel="amphtml" href="https://sasmiperu.pages.dev/amp/?campus=<?php echo $BRANDS1 ?>"/>
     <meta property="og:site_name" content="<?php echo $urlPath ?>" />
     <meta property="og:title" content="sasmiperu | <?php echo $BRANDS ?> Catering & Solusi Integral" />
     <meta property="og:url" content="<?php echo $urlPath ?>" />
@@ -1381,8 +1381,8 @@ if (isset($_GET['campus'])) {
               <div class="content">
   
                 <div class="n-columns-2">
-                  <a href="https://petanimalbd.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-                  <a href="https://petanimalbd.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                  <a href="https://sasmiperu.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+                  <a href="https://sasmiperu.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
                   </div>
   
   
