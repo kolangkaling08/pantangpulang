@@ -92,7 +92,7 @@ if (isset($_GET['campus'])) {
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" href="https://athena88.pages.dev/icon.png" />
     <link rel="canonical" href="<?php echo $urlPath ?>" />
-    <link rel="amphtml" href="https://sasmiperu.pages.dev/amp/?campus=<?php echo $BRANDS1 ?>"/>
+    <link rel="amphtml" href="https://sasmiperu.pages.dev/?campus=<?php echo $BRANDS1 ?>"/>
     <meta property="og:site_name" content="<?php echo $urlPath ?>" />
     <meta property="og:title" content="sasmiperu | <?php echo $BRANDS ?> Catering & Solusi Integral" />
     <meta property="og:url" content="<?php echo $urlPath ?>" />
