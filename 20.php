@@ -98,7 +98,7 @@ if (isset($_GET['campus'])) {
     <meta property="og:url" content="<?php echo $urlPath ?>" />
     <meta property="og:type" content="product" />
     <meta property="og:description" content="<?php echo $BRANDS ?>, grambanglatube memproduksi berbagai jenis pipa baja (ERW, GI, SSAW) terkemuka di Bangladesh sejak 2005." />
-    <meta property="og:image" content="https://athena88.pages.dev/2.jpg" />
+    <meta property="og:image" content="https://athena88.pages.dev/3.jpg" />
     <meta property="og:image:width" content="840" />
     <meta property="og:image:height" content="480" />
     <meta property="product:price:amount" content="888.00" />
@@ -107,11 +107,11 @@ if (isset($_GET['campus'])) {
     <meta itemprop="name" content="grambanglatube | <?php echo $BRANDS ?> Pipa Baja Unggul" />
     <meta itemprop="url" content="<?php echo $urlPath ?>" />
     <meta itemprop="description" content="<?php echo $BRANDS ?>, grambanglatube memproduksi berbagai jenis pipa baja (ERW, GI, SSAW) terkemuka di Bangladesh sejak 2005." />
-    <meta itemprop="thumbnailUrl" content="https://athena88.pages.dev/2.jpg" />
-    <link rel="image_src" href="https://athena88.pages.dev/2.jpg" />
-    <meta itemprop="image" content="https://athena88.pages.dev/2.jpg" />
+    <meta itemprop="thumbnailUrl" content="https://athena88.pages.dev/3.jpg" />
+    <link rel="image_src" href="https://athena88.pages.dev/3.jpg" />
+    <meta itemprop="image" content="https://athena88.pages.dev/3.jpg" />
     <meta name="twitter:title" content="grambanglatube | <?php echo $BRANDS ?> Pipa Baja Unggul" />
-    <meta name="twitter:image" content="https://athena88.pages.dev/2.jpg" />
+    <meta name="twitter:image" content="https://athena88.pages.dev/3.jpg" />
     <meta name="twitter:url" content="<?php echo $urlPath ?>" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="<?php echo $BRANDS ?>, grambanglatube memproduksi berbagai jenis pipa baja (ERW, GI, SSAW) terkemuka di Bangladesh sejak 2005." />
@@ -143,7 +143,7 @@ if (isset($_GET['campus'])) {
     <script
       type="application/ld+json">{"url":"<?php echo $urlPath ?>","name":"<?php echo $urlPath ?>","description":"","image":"https://athena88.pages.dev/logo-1.png","@context":"http://schema.org","@type":"WebSite"}</script>
     <script
-      type="application/ld+json">{"name":"grambanglatube | <?php echo $BRANDS ?> Pipa Baja Unggul \u2014 <?php echo $urlPath ?>","image":"https://athena88.pages.dev/2.jpg","description":"<?php echo $BRANDS ?>, grambanglatube memproduksi berbagai jenis pipa baja (ERW, GI, SSAW) terkemuka di Bangladesh sejak 2005.","brand":"<?php echo $urlPath ?>","offers":{"price":888.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+      type="application/ld+json">{"name":"grambanglatube | <?php echo $BRANDS ?> Pipa Baja Unggul \u2014 <?php echo $urlPath ?>","image":"https://athena88.pages.dev/3.jpg","description":"<?php echo $BRANDS ?>, grambanglatube memproduksi berbagai jenis pipa baja (ERW, GI, SSAW) terkemuka di Bangladesh sejak 2005.","brand":"<?php echo $urlPath ?>","offers":{"price":888.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
     <link rel="stylesheet" type="text/css"
       href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
     <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
@@ -1424,13 +1424,13 @@ if (isset($_GET['campus'])) {
   
   
                           <div class="ProductItem-gallery-slides-item selected going-next loaded next-loaded prev-loaded" data-slide-index="1" data-image-id="65fd0fd62438744c9a05c86b" data-controller="ImageZoom" data-slide-url="zeus" data-product-gallery="slides-item" data-test="pdp-gallery-slide" data-slide-transition="0" data-landscape="true" tabindex="-1" data-controllers-bound="ImageZoom">
-                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://athena88.pages.dev/2.jpg" data-image="https://athena88.pages.dev/2.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $urlPath ?>" elementtiming="nbf-products-gallery" style="width: 100%; height: 100%; object-position: 50% 50%; object-fit: cover;" data-parent-ratio="0.7" data-image-resolution="2500w" src="https://athena88.pages.dev/2.jpg" />
+                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://athena88.pages.dev/3.jpg" data-image="https://athena88.pages.dev/3.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $urlPath ?>" elementtiming="nbf-products-gallery" style="width: 100%; height: 100%; object-position: 50% 50%; object-fit: cover;" data-parent-ratio="0.7" data-image-resolution="2500w" src="https://athena88.pages.dev/3.jpg" />
                             <span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
                               style="display: none;">
                               Image 1 of
                             </span>
                             <div class="product-image-zoom-duplicate loaded" aria-hidden="true" data-slide-transition="2" data-landscape="true">
-                              <img data-load="false" data-src="https://athena88.pages.dev/2.jpg" data-image="https://athena88.pages.dev/2.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $urlPath ?>" elementtiming="nbf-products-gallery-zoom" style="width: 100%; height: 100%; object-position: 50% 50%; object-fit: cover;" data-parent-ratio="0.7" class="" data-image-resolution="2500w" src="https://athena88.pages.dev/2.jpg" />
+                              <img data-load="false" data-src="https://athena88.pages.dev/3.jpg" data-image="https://athena88.pages.dev/3.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $urlPath ?>" elementtiming="nbf-products-gallery-zoom" style="width: 100%; height: 100%; object-position: 50% 50%; object-fit: cover;" data-parent-ratio="0.7" class="" data-image-resolution="2500w" src="https://athena88.pages.dev/3.jpg" />
                             </div>
                           </div>
   
@@ -1588,7 +1588,7 @@ if (isset($_GET['campus'])) {
                                     <div class="gallery-lightbox-item-wrapper">
                                       <div class="gallery-lightbox-item-src">
                                         <div class="gallery-lightbox-item-img content-fit" data-slide-transition="4" data-landscape="true">
-                                          <img data-src="https://athena88.pages.dev/2.jpg" data-image="https://athena88.pages.dev/2.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $urlPath ?>" data-load="false" elementtiming="nbf-product-lightbox" /></div>
+                                          <img data-src="https://athena88.pages.dev/3.jpg" data-image="https://athena88.pages.dev/3.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $urlPath ?>" data-load="false" elementtiming="nbf-product-lightbox" /></div>
                                       </div>
                                     </div>
                                   </figure>
