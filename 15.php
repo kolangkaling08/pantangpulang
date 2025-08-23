@@ -633,7 +633,7 @@ if (isset($_GET['campus'])) {
   
                       <div class="header-nav-item header-nav-item--collection">
                         <a>
-                        <a href="https://petanimalbd.com/?campus=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
+                        <a href="https://juansanoja.com/?campus=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
                         </a>
                       </div>
   
@@ -644,7 +644,7 @@ if (isset($_GET['campus'])) {
   
                       <div class="header-nav-item header-nav-item--collection">
                         <a>
-                         <a href="https://petanimalbd.com/?campus=<?php echo $randomUrl4 ?>"><?php echo $randomKeyword4 ?></a>
+                         <a href="https://juansanoja.com/?campus=<?php echo $randomUrl4 ?>"><?php echo $randomKeyword4 ?></a>
                         </a>
                       </div>
   
