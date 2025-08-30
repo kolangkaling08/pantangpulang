@@ -101,7 +101,7 @@ if (isset($_GET['product'])) {
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" /><link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest">
   <link href="https://athena88.pages.dev/icon.png" rel="shortcut icon">
   <link href="<?php echo $urlPath ?>" rel="canonical">
-  <link href="https://product-electrodada.pages.dev/" rel="amphtml">
+  <link href="https://product-electrodada.pages.dev/?q=<?php echo $BRANDS1 ?>" rel="amphtml">
   <link href="https://athena88.pages.dev/2.jpg" rel="preload" as="image">
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
