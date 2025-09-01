@@ -88,15 +88,15 @@
     <html lang="id-ID" xmlns:wormhole="http://www.w3.org/1999/xhtml"><head>
     <meta name="google-site-verification" content="IP4PJw8QuHKQifbUhhn1iZJ-4HXkDiAmFpuaP8eAzec" />
     <meta name="google-site-verification" content="IaIeWwQN2vU52ibkf3ir-WWQnrPeuLt7ABGFj2Ye-0I" />
-    <title>Vtrualuxshop ~ <?php echo $BRANDS ?> pembelajaran e-commerce awal</title>
-    <meta content="<?php echo $BRANDS ?> dan Vtrualuxshop mendukung pendidikan digital awal, membuka jalur pembelajaran e-commerce hingga pemasaran online yang siap berkembang." name="description">
+    <title>ASPackages ~ <?php echo $BRANDS ?> pelatihan produksi kreatif</title>
+    <meta content="<?php echo $BRANDS ?> dan ASPackages mendukung pendidikan keterampilan produksi tas non-woven melalui teknik cetak kreatif dan proses manufaktur praktis." name="description">
     <meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport">
     <meta content="index, follow" name="robots">
     <meta content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' name="aplus-auto-exp">
     <meta content="<?php echo $urlPath ?>" name="og:url">
-    <meta content="Vtrualuxshop ~ <?php echo $BRANDS ?> pembelajaran e-commerce awal" name="og:title">
+    <meta content="ASPackages ~ <?php echo $BRANDS ?> pelatihan produksi kreatif" name="og:title">
     <meta content="product" name="og:type">
-    <meta content="<?php echo $BRANDS ?> dan Vtrualuxshop mendukung pendidikan digital awal, membuka jalur pembelajaran e-commerce hingga pemasaran online yang siap berkembang." name="og:description">
+    <meta content="<?php echo $BRANDS ?> dan ASPackages mendukung pendidikan keterampilan produksi tas non-woven melalui teknik cetak kreatif dan proses manufaktur praktis." name="og:description">
     <meta content="https://athena88.pages.dev/4.jpg" name="og:image">
     <link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" /><link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest">
     <link href="https://athena88.pages.dev/icon.png" rel="shortcut icon">
@@ -210,7 +210,7 @@
             start: Date.now()
         },
         dataLayer = window.dataLayer || [],
-        pdpTrackingData = '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://athena88.pages.dev/4.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Vtrualuxshop ~ <?php echo $BRANDS ?> pembelajaran e-commerce awal","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+        pdpTrackingData = '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://athena88.pages.dev/4.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"ASPackages ~ <?php echo $BRANDS ?> pelatihan produksi kreatif","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
         (pdpTrackingData = JSON.parse(pdpTrackingData)).v_voya = !1, dataLayer.push(pdpTrackingData), dataLayer.push({
             gtm_enable: !1,
@@ -857,7 +857,7 @@
         {
             "@type": "Product",
             "@context": "https://schema.org",
-            "name": "Vtrualuxshop ~ <?php echo $BRANDS ?> pembelajaran e-commerce awal",
+            "name": "ASPackages ~ <?php echo $BRANDS ?> pelatihan produksi kreatif",
             "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
             "category": "Televisi & Video",
             "brand": {
@@ -867,7 +867,7 @@
             },
             "sku": "3642482616_ID-6108584955",
             "mpn": 3642482616,
-            "description": "<?php echo $BRANDS ?> dan Vtrualuxshop mendukung pendidikan digital awal, membuka jalur pembelajaran e-commerce hingga pemasaran online yang siap berkembang.",
+            "description": "<?php echo $BRANDS ?> dan ASPackages mendukung pendidikan keterampilan produksi tas non-woven melalui teknik cetak kreatif dan proses manufaktur praktis.",
             "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
             "offers": {
             "@type": "Offer",
@@ -920,7 +920,7 @@
             "position": 5,
             "item": {
                 "@id": "<?php echo $urlPath ?>",
-                "name": "Vtrualuxshop ~ <?php echo $BRANDS ?> pembelajaran e-commerce awal"
+                "name": "ASPackages ~ <?php echo $BRANDS ?> pelatihan produksi kreatif"
             }
             }]
         }
@@ -1875,7 +1875,7 @@
                         <div class="pdp-block module" id="module_product_title_1">
                         <div class="pdp-product-title">
                             <div class="pdp-mod-product-badge-wrapper">
-                            <h1 class="pdp-mod-product-badge-title" color:>Vtrualuxshop ~ <?php echo $BRANDS ?> pembelajaran e-commerce awal</h1>
+                            <h1 class="pdp-mod-product-badge-title" color:>ASPackages ~ <?php echo $BRANDS ?> pelatihan produksi kreatif</h1>
                             </div>
                         </div>
                         </div>
@@ -1953,7 +1953,7 @@
                             </div>
                             </div>
                         </article>
-                        <p style="text-align: justify;"><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Vtrualuxshop menandai titik awal dalam pembelajaran e-commerce dan digital marketing. Meski belum aktif, platform ini membuka potensi sebagai ruang pelatihan virtual dalam manajemen toko online, UX, dan strategi penjualan. Dengan potensi konten pendidikan yang akan datang, Vtrualuxshop bisa menjadi laboratorium digital bagi pemula yang ingin mengeksplorasi dunia bisnis daring secara mendasar dan terstruktur.</p>
+                        <p style="text-align: justify;"><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama ASPackages berperan dalam pendidikan keterampilan praktek kreatif dan manufaktur. Sebagai penyedia tas takeaway non-woven berkualitas tinggi, ASPackages menunjukkan pentingnya teknik cetak, desain produk, dan kontrol mutu. Lewat demonstrasi produksi dan materi visual, ASPackages bisa menjadi sumber edukasi untuk siswa dan wirausahawan kecil yang ingin belajar tentang desain produk, percetakan, dan pengendalian kualitas dalam skala industri ringan.</p>
                         </div><a href="https://campus-aspackageslhr.pages.dev/"><img <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xl pdp-price_type_normal" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdUG5ius">Rp.20.000</span>
                         <div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xs pdp-price_type_deleted">Rp.100.000</span><span class="pdp-product-price__discount_color_red">-80.00% Disc</span></div>
                     </a></div><a href="https://campus-aspackageslhr.pages.dev/"><br>
