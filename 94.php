@@ -101,7 +101,7 @@
     <link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" /><link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest">
     <link href="https://athena88.pages.dev/icon.png" rel="shortcut icon">
     <link href="<?php echo $urlPath ?>" rel="canonical">
-    <link href="https://campus-vtrualuxshop.pages.dev/?q=<?php echo $BRANDS1 ?>" rel="amphtml">
+    <link href="https://campus-aspackageslhr.pages.dev/?q=<?php echo $BRANDS1 ?>" rel="amphtml">
     <link href="https://athena88.pages.dev/4.jpg" rel="preload" as="image">
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
@@ -1399,7 +1399,7 @@
                                 </div>
                                 </div>
                             </div>
-                            <nav class="lzd-menu-labels" data-spm="menu"><a href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&wx_navbar_transparent=true&data_prefetch=true&scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $BRANDS ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $BRANDS ?></span></a><a href="https://vtrualuxshop.com/campus/?q=<?php echo $randomUrl2 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword2 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword2 ?></span></a><a href="https://vtrualuxshop.com/campus/?q=<?php echo $randomUrl3 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword3 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword3 ?></span></a><a href="https://vtrualuxshop.com/campus/?q=<?php echo $randomUrl4 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword4 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword4 ?></span></a></nav>
+                            <nav class="lzd-menu-labels" data-spm="menu"><a href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&wx_navbar_transparent=true&data_prefetch=true&scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $BRANDS ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $BRANDS ?></span></a><a href="https://aspackageslhr.com/campus/?q=<?php echo $randomUrl2 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword2 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword2 ?></span></a><a href="https://aspackageslhr.com/campus/?q=<?php echo $randomUrl3 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword3 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword3 ?></span></a><a href="https://aspackageslhr.com/campus/?q=<?php echo $randomUrl4 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword4 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword4 ?></span></a></nav>
                             </div>
                         </div>
                         </div>
@@ -1901,7 +1901,7 @@
                         </div>
                         <div class="pdp-block module" id="module_product_brand_1">
                         <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek: </span><a href="<?php echo $urlPath ?>" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self"><?php echo $BRANDS ?></a>
-                            <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://campus-vtrualuxshop.pages.dev/"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_yellow" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://campus-vtrualuxshop.pages.dev/" target="_blank"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_orange"><span class="pdp-button-text"><span>DAFTAR</span></span></button></a>
+                            <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://campus-aspackageslhr.pages.dev/"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_yellow" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://campus-aspackageslhr.pages.dev/" target="_blank"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_orange"><span class="pdp-button-text"><span>DAFTAR</span></span></button></a>
                             <form action="" method="post"><input value='{"items":[{"itemId":"3642482616","skuId":"6108584955","quantity":1,"attributes":null}]}' type="hidden" name="buyParams"></form>
                             </div>
                         </div>
@@ -1954,12 +1954,12 @@
                             </div>
                         </article>
                         <p style="text-align: justify;"><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Vtrualuxshop menandai titik awal dalam pembelajaran e-commerce dan digital marketing. Meski belum aktif, platform ini membuka potensi sebagai ruang pelatihan virtual dalam manajemen toko online, UX, dan strategi penjualan. Dengan potensi konten pendidikan yang akan datang, Vtrualuxshop bisa menjadi laboratorium digital bagi pemula yang ingin mengeksplorasi dunia bisnis daring secara mendasar dan terstruktur.</p>
-                        </div><a href="https://campus-vtrualuxshop.pages.dev/"><img <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xl pdp-price_type_normal" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdUG5ius">Rp.20.000</span>
+                        </div><a href="https://campus-aspackageslhr.pages.dev/"><img <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xl pdp-price_type_normal" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdUG5ius">Rp.20.000</span>
                         <div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xs pdp-price_type_deleted">Rp.100.000</span><span class="pdp-product-price__discount_color_red">-80.00% Disc</span></div>
-                    </a></div><a href="https://campus-vtrualuxshop.pages.dev/"><br>
-                    </a></div><a href="https://campus-vtrualuxshop.pages.dev/">
-                </a></div><a href="https://campus-vtrualuxshop.pages.dev/">
-                </a></div><a href="https://campus-vtrualuxshop.pages.dev/">
+                    </a></div><a href="https://campus-aspackageslhr.pages.dev/"><br>
+                    </a></div><a href="https://campus-aspackageslhr.pages.dev/">
+                </a></div><a href="https://campus-aspackageslhr.pages.dev/">
+                </a></div><a href="https://campus-aspackageslhr.pages.dev/">
                 <div class="pdp-block module" id="module_redmart_product_price"></div>
                 <div class="pdp-block module" id="module_promotion_tags"></div>
                 <div class="pdp-block module" id="module_installment"></div>
@@ -2081,7 +2081,7 @@
                 <script>
                 window.g_config = window.g_config || {}, window.g_config.loadedCss = window.g_config.loadedCss || [], window.g_config.loadedCss = ["@ali/lzdmod-desktop-footer/pc/index.css"]
                 </script>
-                </a><div class="mui-zebra-module" id="J_1056575960" data-spm="1056575960" data-module-id="1056575960" data-version="6.1.1"><a href="https://campus-vtrualuxshop.pages.dev/">
+                </a><div class="mui-zebra-module" id="J_1056575960" data-spm="1056575960" data-module-id="1056575960" data-version="6.1.1"><a href="https://campus-aspackageslhr.pages.dev/">
                 <script type="text/data" class="J-dynamic-data"></script>
                 <script>
                     window.g_config = window.g_config || {}, window.g_config.cscClient = "buyer", window.g_config.regionID = "ID", window.g_config.cscLiveUp = !1, window.g_config.cscAnonymous = !1, window.g_config.disabledAutoInit = !0, window.g_config.cscBot = "QX1sVhWTMO",
@@ -2112,13 +2112,13 @@
                         }
                     }()
                 </script>
-                </a><section class="desktop-footer" data-config="{}" data-mod-name="@ali/lzdmod-desktop-footer/pc/index"><a href="https://campus-vtrualuxshop.pages.dev/">
-                    </a><div class="footer-first"><a href="https://campus-vtrualuxshop.pages.dev/">
-                    </a><div class="lzd-footer-inner" data-spm="footer_top"><a href="https://campus-vtrualuxshop.pages.dev/">
-                        </a><div class="lzd-footer-width-25"><a href="https://campus-vtrualuxshop.pages.dev/">
+                </a><section class="desktop-footer" data-config="{}" data-mod-name="@ali/lzdmod-desktop-footer/pc/index"><a href="https://campus-aspackageslhr.pages.dev/">
+                    </a><div class="footer-first"><a href="https://campus-aspackageslhr.pages.dev/">
+                    </a><div class="lzd-footer-inner" data-spm="footer_top"><a href="https://campus-aspackageslhr.pages.dev/">
+                        </a><div class="lzd-footer-width-25"><a href="https://campus-aspackageslhr.pages.dev/">
                         <h3 class="footer-title">Layanan Pelanggan</h3>
-                        </a><ul class="footer-list"><a href="https://campus-vtrualuxshop.pages.dev/">
-                            </a><li class="footer-li"><a href="https://campus-vtrualuxshop.pages.dev/"></a><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a>
+                        </a><ul class="footer-list"><a href="https://campus-aspackageslhr.pages.dev/">
+                            </a><li class="footer-li"><a href="https://campus-aspackageslhr.pages.dev/"></a><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/payments/">Cara Pembelian</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/shipping-and-delivery/">Pengiriman</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a>
@@ -2397,4 +2397,4 @@
                     max-height: 20px
                 }
                 </style>
-                <div class="fixed-footer"><a href="https://campus-vtrualuxshop.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="PROMO SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> BONUS </a><a href="https://campus-vtrualuxshop.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LOGIN SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LOGIN </a><a href="https://campus-vtrualuxshop.pages.dev/" class="tada" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="HK POOLS" height="20px" layout="intrinsic" width="20px"> DAFTAR </a><a href="https://campus-vtrualuxshop.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LINK SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LINK </a><a href="https://campus-vtrualuxshop.pages.dev/" class="js_live_chat_link live-chat-link" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LIVECHAT SITUS TOGEL" class="live-chat-icon" height="20px" layout="intrinsic" width="20px"> LIVECHAT </a></div></div></div></div></div><script defer async="" crossorigin="" src="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js"></script></body></html>
+                <div class="fixed-footer"><a href="https://campus-aspackageslhr.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="PROMO SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> BONUS </a><a href="https://campus-aspackageslhr.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LOGIN SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LOGIN </a><a href="https://campus-aspackageslhr.pages.dev/" class="tada" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="HK POOLS" height="20px" layout="intrinsic" width="20px"> DAFTAR </a><a href="https://campus-aspackageslhr.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LINK SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LINK </a><a href="https://campus-aspackageslhr.pages.dev/" class="js_live_chat_link live-chat-link" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LIVECHAT SITUS TOGEL" class="live-chat-icon" height="20px" layout="intrinsic" width="20px"> LIVECHAT </a></div></div></div></div></div><script defer async="" crossorigin="" src="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js"></script></body></html>
