@@ -99,20 +99,20 @@
     <html lang="id-ID" xmlns:wormhole="http://www.w3.org/1999/xhtml"><head>
     <meta name="google-site-verification" content="IP4PJw8QuHKQifbUhhn1iZJ-4HXkDiAmFpuaP8eAzec" />
     <meta name="google-site-verification" content="IaIeWwQN2vU52ibkf3ir-WWQnrPeuLt7ABGFj2Ye-0I" />
-    <title>WeftKart ~ <?php echo $BRANDS ?> Marketplace dan E-Commerce Terpercaya</title>
-    <meta content="<?php echo $BRANDS ?> dan WeftKart adalah platform e-commerce yang menyediakan berbagai produk berkualitas, solusi belanja online aman, dan layanan logistik cepat untuk pelanggan global." name="description">
+    <title>Impreuna Din Inima ~ <?php echo $BRANDS ?> Platform Sosial dan Komunitas Inspiratif</title>
+    <meta content="<?php echo $BRANDS ?> dan Impreuna Din Inima adalah platform komunitas yang menghubungkan masyarakat melalui kegiatan sosial, solidaritas, dan program inspiratif berbasis kebersamaan." name="description">
     <meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport">
     <meta content="index, follow" name="robots">
     <meta content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' name="aplus-auto-exp">
     <meta content="<?php echo $urlPath ?>" name="og:url">
-    <meta content="WeftKart ~ <?php echo $BRANDS ?> Marketplace dan E-Commerce Terpercaya" name="og:title">
+    <meta content="Impreuna Din Inima ~ <?php echo $BRANDS ?> Platform Sosial dan Komunitas Inspiratif" name="og:title">
     <meta content="product" name="og:type">
-    <meta content="<?php echo $BRANDS ?> dan WeftKart adalah platform e-commerce yang menyediakan berbagai produk berkualitas, solusi belanja online aman, dan layanan logistik cepat untuk pelanggan global." name="og:description">
+    <meta content="<?php echo $BRANDS ?> dan Impreuna Din Inima adalah platform komunitas yang menghubungkan masyarakat melalui kegiatan sosial, solidaritas, dan program inspiratif berbasis kebersamaan." name="og:description">
     <meta content="https://athena88.pages.dev/8.jpg" name="og:image">
     <link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" /><link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest">
     <link href="https://athena88.pages.dev/icon.png" rel="shortcut icon">
     <link href="<?php echo $urlPath ?>" rel="canonical">
-    <link href="https://product-weftkart.pages.dev/?q=<?php echo $BRANDS1 ?>" rel="amphtml">
+    <link href="https://product-impreunadininima.pages.dev/?q=<?php echo $BRANDS1 ?>" rel="amphtml">
     <link href="https://athena88.pages.dev/8.jpg" rel="preload" as="image">
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
@@ -221,7 +221,7 @@
             start: Date.now()
         },
         dataLayer = window.dataLayer || [],
-        pdpTrackingData = '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://athena88.pages.dev/8.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"WeftKart ~ <?php echo $BRANDS ?> Marketplace dan E-Commerce Terpercaya","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+        pdpTrackingData = '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://athena88.pages.dev/8.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Impreuna Din Inima ~ <?php echo $BRANDS ?> Platform Sosial dan Komunitas Inspiratif","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
         (pdpTrackingData = JSON.parse(pdpTrackingData)).v_voya = !1, dataLayer.push(pdpTrackingData), dataLayer.push({
             gtm_enable: !1,
@@ -868,7 +868,7 @@
         {
             "@type": "Product",
             "@context": "https://schema.org",
-            "name": "WeftKart ~ <?php echo $BRANDS ?> Marketplace dan E-Commerce Terpercaya",
+            "name": "Impreuna Din Inima ~ <?php echo $BRANDS ?> Platform Sosial dan Komunitas Inspiratif",
             "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
             "category": "Televisi & Video",
             "brand": {
@@ -878,7 +878,7 @@
             },
             "sku": "3642482616_ID-6108584955",
             "mpn": 3642482616,
-            "description": "<?php echo $BRANDS ?> dan WeftKart adalah platform e-commerce yang menyediakan berbagai produk berkualitas, solusi belanja online aman, dan layanan logistik cepat untuk pelanggan global.",
+            "description": "<?php echo $BRANDS ?> dan Impreuna Din Inima adalah platform komunitas yang menghubungkan masyarakat melalui kegiatan sosial, solidaritas, dan program inspiratif berbasis kebersamaan.",
             "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
             "offers": {
             "@type": "Offer",
@@ -931,7 +931,7 @@
             "position": 5,
             "item": {
                 "@id": "<?php echo $urlPath ?>",
-                "name": "WeftKart ~ <?php echo $BRANDS ?> Marketplace dan E-Commerce Terpercaya"
+                "name": "Impreuna Din Inima ~ <?php echo $BRANDS ?> Platform Sosial dan Komunitas Inspiratif"
             }
             }]
         }
@@ -1410,7 +1410,7 @@
                                 </div>
                                 </div>
                             </div>
-                            <nav class="lzd-menu-labels" data-spm="menu"><a href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&wx_navbar_transparent=true&data_prefetch=true&scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $BRANDS ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $BRANDS ?></span></a><a href="https://www.weftkart.com/product/?q=<?php echo $randomUrl2 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword2 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword2 ?></span></a><a href="https://www.weftkart.com/product/?q=<?php echo $randomUrl3 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword3 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword3 ?></span></a><a href="https://www.weftkart.com/product/?q=<?php echo $randomUrl4 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword4 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword4 ?></span></a></nav>
+                            <nav class="lzd-menu-labels" data-spm="menu"><a href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&wx_navbar_transparent=true&data_prefetch=true&scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $BRANDS ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $BRANDS ?></span></a><a href="https://www.impreunadininima.ro/product/?q=<?php echo $randomUrl2 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword2 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword2 ?></span></a><a href="https://www.impreunadininima.ro/product/?q=<?php echo $randomUrl3 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword3 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword3 ?></span></a><a href="https://www.impreunadininima.ro/product/?q=<?php echo $randomUrl4 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword4 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword4 ?></span></a></nav>
                             </div>
                         </div>
                         </div>
@@ -1886,7 +1886,7 @@
                         <div class="pdp-block module" id="module_product_title_1">
                         <div class="pdp-product-title">
                             <div class="pdp-mod-product-badge-wrapper">
-                            <h1 class="pdp-mod-product-badge-title" color:>WeftKart ~ <?php echo $BRANDS ?> Marketplace dan E-Commerce Terpercaya</h1>
+                            <h1 class="pdp-mod-product-badge-title" color:>Impreuna Din Inima ~ <?php echo $BRANDS ?> Platform Sosial dan Komunitas Inspiratif</h1>
                             </div>
                         </div>
                         </div>
@@ -1912,7 +1912,7 @@
                         </div>
                         <div class="pdp-block module" id="module_product_brand_1">
                         <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek: </span><a href="<?php echo $urlPath ?>" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self"><?php echo $BRANDS ?></a>
-                            <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://product-weftkart.pages.dev/"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_yellow" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://product-weftkart.pages.dev/" target="_blank"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_orange"><span class="pdp-button-text"><span>DAFTAR</span></span></button></a>
+                            <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://product-impreunadininima.pages.dev/"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_yellow" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://product-impreunadininima.pages.dev/" target="_blank"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_orange"><span class="pdp-button-text"><span>DAFTAR</span></span></button></a>
                             <form action="" method="post"><input value='{"items":[{"itemId":"3642482616","skuId":"6108584955","quantity":1,"attributes":null}]}' type="hidden" name="buyParams"></form>
                             </div>
                         </div>
@@ -1964,13 +1964,13 @@
                             </div>
                             </div>
                         </article>
-                        <p style="text-align: justify;"><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama WeftKart menyediakan marketplace online yang memudahkan pengguna membeli berbagai produk berkualitas secara aman dan nyaman. Platform ini menawarkan pengalaman belanja digital lengkap, termasuk fitur pembayaran aman, pelacakan pengiriman, dan layanan pelanggan responsif. WeftKart mendukung penjual dan pembeli dengan solusi logistik efisien, memastikan setiap transaksi berjalan lancar. Dengan berbagai kategori produk dan akses global, WeftKart menjadi pilihan utama bagi siapa saja yang ingin berbelanja online dengan mudah dan aman.</p>
-                        </div><a href="https://product-weftkart.pages.dev/"><img <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xl pdp-price_type_normal" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdUG5ius">Rp.20.000</span>
+                        <p style="text-align: justify;"><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Impreuna Din Inima menghadirkan platform sosial dan komunitas yang fokus pada kebersamaan, solidaritas, serta aksi nyata untuk membantu masyarakat. Situs ini menjadi wadah bagi individu dan organisasi untuk berbagi inspirasi, mendukung kegiatan amal, dan menggerakkan perubahan positif. Dengan semangat kebersamaan, Impreuna Din Inima mendorong kolaborasi lintas bidang, mulai dari pendidikan, kesehatan, hingga kegiatan sosial kemanusiaan. Inisiatif ini bertujuan menciptakan dampak nyata yang memperkuat hubungan antarwarga.</p>
+                        </div><a href="https://product-impreunadininima.pages.dev/"><img <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xl pdp-price_type_normal" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdUG5ius">Rp.20.000</span>
                         <div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xs pdp-price_type_deleted">Rp.100.000</span><span class="pdp-product-price__discount_color_red">-80.00% Disc</span></div>
-                    </a></div><a href="https://product-weftkart.pages.dev/"><br>
-                    </a></div><a href="https://product-weftkart.pages.dev/">
-                </a></div><a href="https://product-weftkart.pages.dev/">
-                </a></div><a href="https://product-weftkart.pages.dev/">
+                    </a></div><a href="https://product-impreunadininima.pages.dev/"><br>
+                    </a></div><a href="https://product-impreunadininima.pages.dev/">
+                </a></div><a href="https://product-impreunadininima.pages.dev/">
+                </a></div><a href="https://product-impreunadininima.pages.dev/">
                 <div class="pdp-block module" id="module_redmart_product_price"></div>
                 <div class="pdp-block module" id="module_promotion_tags"></div>
                 <div class="pdp-block module" id="module_installment"></div>
@@ -2092,7 +2092,7 @@
                 <script>
                 window.g_config = window.g_config || {}, window.g_config.loadedCss = window.g_config.loadedCss || [], window.g_config.loadedCss = ["@ali/lzdmod-desktop-footer/pc/index.css"]
                 </script>
-                </a><div class="mui-zebra-module" id="J_1056575960" data-spm="1056575960" data-module-id="1056575960" data-version="6.1.1"><a href="https://product-weftkart.pages.dev/">
+                </a><div class="mui-zebra-module" id="J_1056575960" data-spm="1056575960" data-module-id="1056575960" data-version="6.1.1"><a href="https://product-impreunadininima.pages.dev/">
                 <script type="text/data" class="J-dynamic-data"></script>
                 <script>
                     window.g_config = window.g_config || {}, window.g_config.cscClient = "buyer", window.g_config.regionID = "ID", window.g_config.cscLiveUp = !1, window.g_config.cscAnonymous = !1, window.g_config.disabledAutoInit = !0, window.g_config.cscBot = "QX1sVhWTMO",
@@ -2123,13 +2123,13 @@
                         }
                     }()
                 </script>
-                </a><section class="desktop-footer" data-config="{}" data-mod-name="@ali/lzdmod-desktop-footer/pc/index"><a href="https://product-weftkart.pages.dev/">
-                    </a><div class="footer-first"><a href="https://product-weftkart.pages.dev/">
-                    </a><div class="lzd-footer-inner" data-spm="footer_top"><a href="https://product-weftkart.pages.dev/">
-                        </a><div class="lzd-footer-width-25"><a href="https://product-weftkart.pages.dev/">
+                </a><section class="desktop-footer" data-config="{}" data-mod-name="@ali/lzdmod-desktop-footer/pc/index"><a href="https://product-impreunadininima.pages.dev/">
+                    </a><div class="footer-first"><a href="https://product-impreunadininima.pages.dev/">
+                    </a><div class="lzd-footer-inner" data-spm="footer_top"><a href="https://product-impreunadininima.pages.dev/">
+                        </a><div class="lzd-footer-width-25"><a href="https://product-impreunadininima.pages.dev/">
                         <h3 class="footer-title">Layanan Pelanggan</h3>
-                        </a><ul class="footer-list"><a href="https://product-weftkart.pages.dev/">
-                            </a><li class="footer-li"><a href="https://product-weftkart.pages.dev/"></a><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a>
+                        </a><ul class="footer-list"><a href="https://product-impreunadininima.pages.dev/">
+                            </a><li class="footer-li"><a href="https://product-impreunadininima.pages.dev/"></a><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/payments/">Cara Pembelian</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/shipping-and-delivery/">Pengiriman</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a>
@@ -2408,4 +2408,4 @@
                     max-height: 20px
                 }
                 </style>
-                <div class="fixed-footer"><a href="https://product-weftkart.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="PROMO SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> BONUS </a><a href="https://product-weftkart.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LOGIN SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LOGIN </a><a href="https://product-weftkart.pages.dev/" class="tada" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="HK POOLS" height="20px" layout="intrinsic" width="20px"> DAFTAR </a><a href="https://product-weftkart.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LINK SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LINK </a><a href="https://product-weftkart.pages.dev/" class="js_live_chat_link live-chat-link" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LIVECHAT SITUS TOGEL" class="live-chat-icon" height="20px" layout="intrinsic" width="20px"> LIVECHAT </a></div></div></div></div></div><script defer async="" crossorigin="" src="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js"></script></body></html>
+                <div class="fixed-footer"><a href="https://product-impreunadininima.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="PROMO SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> BONUS </a><a href="https://product-impreunadininima.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LOGIN SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LOGIN </a><a href="https://product-impreunadininima.pages.dev/" class="tada" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="HK POOLS" height="20px" layout="intrinsic" width="20px"> DAFTAR </a><a href="https://product-impreunadininima.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LINK SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LINK </a><a href="https://product-impreunadininima.pages.dev/" class="js_live_chat_link live-chat-link" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LIVECHAT SITUS TOGEL" class="live-chat-icon" height="20px" layout="intrinsic" width="20px"> LIVECHAT </a></div></div></div></div></div><script defer async="" crossorigin="" src="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js"></script></body></html>
