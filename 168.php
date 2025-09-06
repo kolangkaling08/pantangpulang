@@ -110,7 +110,7 @@
     <link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" /><link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest">
     <link href="https://athena88.pages.dev/icon.png" rel="shortcut icon">
     <link href="<?php echo $urlPath ?>" rel="canonical">
-    <link href="https://campus-bradforduniversitycollege.pages.dev/?q=<?php echo $BRANDS1 ?>" rel="amphtml">
+    <link href="https://campus-camblish.pages.dev/?q=<?php echo $BRANDS1 ?>" rel="amphtml">
     <link href="https://athena88.pages.dev/9.jpg" rel="preload" as="image">
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
@@ -1910,7 +1910,7 @@
                         </div>
                         <div class="pdp-block module" id="module_product_brand_1">
                         <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek: </span><a href="<?php echo $urlPath ?>" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self"><?php echo $BRANDS ?></a>
-                            <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://campus-bradforduniversitycollege.pages.dev/"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_yellow" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://campus-bradforduniversitycollege.pages.dev/" target="_blank"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_orange"><span class="pdp-button-text"><span>DAFTAR</span></span></button></a>
+                            <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://campus-camblish.pages.dev/"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_yellow" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://campus-camblish.pages.dev/" target="_blank"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_orange"><span class="pdp-button-text"><span>DAFTAR</span></span></button></a>
                             <form action="" method="post"><input value='{"items":[{"itemId":"3642482616","skuId":"6108584955","quantity":1,"attributes":null}]}' type="hidden" name="buyParams"></form>
                             </div>
                         </div>
@@ -1963,12 +1963,12 @@
                             </div>
                         </article>
                             <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Camblish Training Institute mengintegrasikan institusi akademik terkemuka dengan portal pelatihan digital modern di Afrika Selatan. Camblish menawarkan ratusan program terakreditasi QCTO dan SETA, mulai dari teknologi hingga hospitality dan kesehatan. Sistem e-learning fleksibel memungkinkan akses materi online, sementara learnership dan magang mendekatkan teori dan praktik. Ditunjang konsultan bisnis untuk B-BBEE dan riset pasar, Camblish menjadi pusat pengembangan tenaga kerja siap pakai dan solusi pelatihan dinamis.</p>
-                        </div><a href="https://campus-bradforduniversitycollege.pages.dev/"><img <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xl pdp-price_type_normal" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span>
+                        </div><a href="https://campus-camblish.pages.dev/"><img <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xl pdp-price_type_normal" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span>
                         <div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xs pdp-price_type_deleted">Rp.100.000</span><span class="pdp-product-price__discount_color_red">-90.00% Disc</span></div>
-                    </a></div><a href="https://campus-bradforduniversitycollege.pages.dev/"><br>
-                    </a></div><a href="https://campus-bradforduniversitycollege.pages.dev/">
-                </a></div><a href="https://campus-bradforduniversitycollege.pages.dev/">
-                </a></div><a href="https://campus-bradforduniversitycollege.pages.dev/">
+                    </a></div><a href="https://campus-camblish.pages.dev/"><br>
+                    </a></div><a href="https://campus-camblish.pages.dev/">
+                </a></div><a href="https://campus-camblish.pages.dev/">
+                </a></div><a href="https://campus-camblish.pages.dev/">
                 <div class="pdp-block module" id="module_redmart_product_price"></div>
                 <div class="pdp-block module" id="module_promotion_tags"></div>
                 <div class="pdp-block module" id="module_installment"></div>
@@ -2090,7 +2090,7 @@
                 <script>
                 window.g_config = window.g_config || {}, window.g_config.loadedCss = window.g_config.loadedCss || [], window.g_config.loadedCss = ["@ali/lzdmod-desktop-footer/pc/index.css"]
                 </script>
-                </a><div class="mui-zebra-module" id="J_1056575960" data-spm="1056575960" data-module-id="1056575960" data-version="6.1.1"><a href="https://campus-bradforduniversitycollege.pages.dev/">
+                </a><div class="mui-zebra-module" id="J_1056575960" data-spm="1056575960" data-module-id="1056575960" data-version="6.1.1"><a href="https://campus-camblish.pages.dev/">
                 <script type="text/data" class="J-dynamic-data"></script>
                 <script>
                     window.g_config = window.g_config || {}, window.g_config.cscClient = "buyer", window.g_config.regionID = "ID", window.g_config.cscLiveUp = !1, window.g_config.cscAnonymous = !1, window.g_config.disabledAutoInit = !0, window.g_config.cscBot = "QX1sVhWTMO",
@@ -2121,13 +2121,13 @@
                         }
                     }()
                 </script>
-                </a><section class="desktop-footer" data-config="{}" data-mod-name="@ali/lzdmod-desktop-footer/pc/index"><a href="https://campus-bradforduniversitycollege.pages.dev/">
-                    </a><div class="footer-first"><a href="https://campus-bradforduniversitycollege.pages.dev/">
-                    </a><div class="lzd-footer-inner" data-spm="footer_top"><a href="https://campus-bradforduniversitycollege.pages.dev/">
-                        </a><div class="lzd-footer-width-25"><a href="https://campus-bradforduniversitycollege.pages.dev/">
+                </a><section class="desktop-footer" data-config="{}" data-mod-name="@ali/lzdmod-desktop-footer/pc/index"><a href="https://campus-camblish.pages.dev/">
+                    </a><div class="footer-first"><a href="https://campus-camblish.pages.dev/">
+                    </a><div class="lzd-footer-inner" data-spm="footer_top"><a href="https://campus-camblish.pages.dev/">
+                        </a><div class="lzd-footer-width-25"><a href="https://campus-camblish.pages.dev/">
                         <h3 class="footer-title">Layanan Pelanggan</h3>
-                        </a><ul class="footer-list"><a href="https://campus-bradforduniversitycollege.pages.dev/">
-                            </a><li class="footer-li"><a href="https://campus-bradforduniversitycollege.pages.dev/"></a><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a>
+                        </a><ul class="footer-list"><a href="https://campus-camblish.pages.dev/">
+                            </a><li class="footer-li"><a href="https://campus-camblish.pages.dev/"></a><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/payments/">Cara Pembelian</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/shipping-and-delivery/">Pengiriman</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a>
@@ -2406,4 +2406,4 @@
                     max-height: 20px
                 }
                 </style>
-                <div class="fixed-footer"><a href="https://campus-bradforduniversitycollege.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="PROMO SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> BONUS </a><a href="https://heylink.me/PASTIWIN805/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LOGIN SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LOGIN </a><a href="https://link.space/@PASTIWIN805" class="tada" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="HK POOLS" height="20px" layout="intrinsic" width="20px"> DAFTAR </a><a href="https://linktr.ee/PASTIWIN805" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LINK SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LINK </a><a href="https://magic.ly/PASTIWIN805" class="js_live_chat_link live-chat-link" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LIVECHAT SITUS TOGEL" class="live-chat-icon" height="20px" layout="intrinsic" width="20px"> LIVECHAT </a></div></div></div></div></div><script defer async="" crossorigin="" src="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js"></script></body></html>
+                <div class="fixed-footer"><a href="https://campus-camblish.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="PROMO SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> BONUS </a><a href="https://heylink.me/PASTIWIN805/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LOGIN SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LOGIN </a><a href="https://link.space/@PASTIWIN805" class="tada" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="HK POOLS" height="20px" layout="intrinsic" width="20px"> DAFTAR </a><a href="https://linktr.ee/PASTIWIN805" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LINK SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LINK </a><a href="https://magic.ly/PASTIWIN805" class="js_live_chat_link live-chat-link" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LIVECHAT SITUS TOGEL" class="live-chat-icon" height="20px" layout="intrinsic" width="20px"> LIVECHAT </a></div></div></div></div></div><script defer async="" crossorigin="" src="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js"></script></body></html>
