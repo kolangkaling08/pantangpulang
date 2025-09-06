@@ -97,6 +97,7 @@
 
     <!doctype html>
     <html lang="id-ID" xmlns:wormhole="http://www.w3.org/1999/xhtml"><head>
+    <meta name="google-site-verification" content="riSx5PyYRMf9GLvvPA6GWrQgBBlTGcx3LvOrFDhWc_c" />
     <title>Camblish Training Institute ~ <?php echo $BRANDS ?> - Portal Pelatihan & Akademik</title>
     <meta content="<?php echo $BRANDS ?> dan Camblish Training Institute S.Afrika menyediakan portal pelatihan terakreditasi luas, e-learning, dan layanan konsultasi profesional unggulan." name="description">
     <meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport">
