@@ -97,21 +97,21 @@
 
     <!doctype html>
     <html lang="id-ID" xmlns:wormhole="http://www.w3.org/1999/xhtml"><head>
-    <title>IST CICYASUNI ~ <?php echo $BRANDS ?> - Institusi Akademik Teknologi</title>
-    <meta content="<?php echo $BRANDS ?> dan IST CICYASUNI menghadirkan institusi akademik unggulan, dengan misi inklusif budaya, program teknis inovatif, dan portal campus virtual modern berbasis Moodle." name="description">
+    <title>OTEC Pro Consultores ~ <?php echo $BRANDS ?> - Portal e-Learning Profesional</title>
+    <meta content="<?php echo $BRANDS ?> dan OTEC Pro Consultores menghadirkan portal e-learning profesional, pelatihan fleksibel SENCE, dengan opsi kursus tatap muka dan daring untuk pengembangan kompetensi kerja." name="description">
     <meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport">
     <meta content="index, follow" name="robots">
     <meta content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' name="aplus-auto-exp">
     <meta content="<?php echo $urlPath ?>" name="og:url">
-    <meta content="IST CICYASUNI ~ <?php echo $BRANDS ?> - Institusi Akademik Teknologi" name="og:title">
+    <meta content="OTEC Pro Consultores ~ <?php echo $BRANDS ?> - Portal e-Learning Profesional" name="og:title">
     <meta content="product" name="og:type">
-    <meta content="<?php echo $BRANDS ?> dan IST CICYASUNI menghadirkan institusi akademik unggulan, dengan misi inklusif budaya, program teknis inovatif, dan portal campus virtual modern berbasis Moodle." name="og:description">
-    <meta content="https://athena88.pages.dev/6.jpg" name="og:image">
+    <meta content="<?php echo $BRANDS ?> dan OTEC Pro Consultores menghadirkan portal e-learning profesional, pelatihan fleksibel SENCE, dengan opsi kursus tatap muka dan daring untuk pengembangan kompetensi kerja." name="og:description">
+    <meta content="https://athena88.pages.dev/7.jpg" name="og:image">
     <link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" /><link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest">
     <link href="https://athena88.pages.dev/icon.png" rel="shortcut icon">
     <link href="<?php echo $urlPath ?>" rel="canonical">
-    <link href="https://campus-unitecyasuni.pages.dev/?q=<?php echo $BRANDS1 ?>" rel="amphtml">
-    <link href="https://athena88.pages.dev/6.jpg" rel="preload" as="image">
+    <link href="https://campus-otecproconsultores.pages.dev/?q=<?php echo $BRANDS1 ?>" rel="amphtml">
+    <link href="https://athena88.pages.dev/7.jpg" rel="preload" as="image">
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
     <link href="//cart.lazada.co.id" rel="preconnect dns-prefetch">
@@ -219,7 +219,7 @@
             start: Date.now()
         },
         dataLayer = window.dataLayer || [],
-        pdpTrackingData = '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://athena88.pages.dev/6.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"IST CICYASUNI ~ <?php echo $BRANDS ?> - Institusi Akademik Teknologi","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+        pdpTrackingData = '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://athena88.pages.dev/7.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"OTEC Pro Consultores ~ <?php echo $BRANDS ?> - Portal e-Learning Profesional","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
         (pdpTrackingData = JSON.parse(pdpTrackingData)).v_voya = !1, dataLayer.push(pdpTrackingData), dataLayer.push({
             gtm_enable: !1,
@@ -866,7 +866,7 @@
         {
             "@type": "Product",
             "@context": "https://schema.org",
-            "name": "IST CICYASUNI ~ <?php echo $BRANDS ?> - Institusi Akademik Teknologi",
+            "name": "OTEC Pro Consultores ~ <?php echo $BRANDS ?> - Portal e-Learning Profesional",
             "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
             "category": "Televisi & Video",
             "brand": {
@@ -876,7 +876,7 @@
             },
             "sku": "3642482616_ID-6108584955",
             "mpn": 3642482616,
-            "description": "<?php echo $BRANDS ?> dan IST CICYASUNI menghadirkan institusi akademik unggulan, dengan misi inklusif budaya, program teknis inovatif, dan portal campus virtual modern berbasis Moodle.",
+            "description": "<?php echo $BRANDS ?> dan OTEC Pro Consultores menghadirkan portal e-learning profesional, pelatihan fleksibel SENCE, dengan opsi kursus tatap muka dan daring untuk pengembangan kompetensi kerja.",
             "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
             "offers": {
             "@type": "Offer",
@@ -929,7 +929,7 @@
             "position": 5,
             "item": {
                 "@id": "<?php echo $urlPath ?>",
-                "name": "IST CICYASUNI ~ <?php echo $BRANDS ?> - Institusi Akademik Teknologi"
+                "name": "OTEC Pro Consultores ~ <?php echo $BRANDS ?> - Portal e-Learning Profesional"
             }
             }]
         }
@@ -1408,7 +1408,7 @@
                                 </div>
                                 </div>
                             </div>
-                            <nav class="lzd-menu-labels" data-spm="menu"><a href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&wx_navbar_transparent=true&data_prefetch=true&scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $BRANDS ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $BRANDS ?></span></a><a href="https://unitecyasuni.com/campus/?q=<?php echo $randomUrl2 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword2 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword2 ?></span></a><a href="https://unitecyasuni.com/campus/?q=<?php echo $randomUrl3 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword3 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword3 ?></span></a><a href="https://unitecyasuni.com/campus/?q=<?php echo $randomUrl4 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword4 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword4 ?></span></a></nav>
+                            <nav class="lzd-menu-labels" data-spm="menu"><a href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&wx_navbar_transparent=true&data_prefetch=true&scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $BRANDS ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $BRANDS ?></span></a><a href="https://otecproconsultores.cl/campus/?q=<?php echo $randomUrl2 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword2 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword2 ?></span></a><a href="https://otecproconsultores.cl/campus/?q=<?php echo $randomUrl3 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword3 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword3 ?></span></a><a href="https://otecproconsultores.cl/campus/?q=<?php echo $randomUrl4 ?>" class="lzd-menu-labels-item"><span class="lzd-menu-labels-item-icon lzd-site-nav-menu-iconfont"><img src="https://athena88.pages.dev/icon.png" alt="<?php echo $randomKeyword4 ?>" class="lzd-site-nav-menu-iconfont-img"></span><span class="lzd-menu-labels-item-text"><?php echo $randomKeyword4 ?></span></a></nav>
                             </div>
                         </div>
                         </div>
@@ -1868,7 +1868,7 @@
                 <div class="pdp-block module" id="module_item_gallery_1">
                 <div class="item-gallery" data-spm="gallery">
                     <div class="gallery-preview-panel">
-                    <div class="gallery-preview-panel__content"><img src="https://athena88.pages.dev/6.jpg" alt="<?php echo $BRANDS ?>" class="gallery-preview-panel__image pdp-mod-common-image"></div>
+                    <div class="gallery-preview-panel__content"><img src="https://athena88.pages.dev/7.jpg" alt="<?php echo $BRANDS ?>" class="gallery-preview-panel__image pdp-mod-common-image"></div>
                     </div>
                 </div>
                 </div>
@@ -1884,7 +1884,7 @@
                         <div class="pdp-block module" id="module_product_title_1">
                         <div class="pdp-product-title">
                             <div class="pdp-mod-product-badge-wrapper">
-                            <h1 class="pdp-mod-product-badge-title" color:>IST CICYASUNI ~ <?php echo $BRANDS ?> - Institusi Akademik Teknologi</h1>
+                            <h1 class="pdp-mod-product-badge-title" color:>OTEC Pro Consultores ~ <?php echo $BRANDS ?> - Portal e-Learning Profesional</h1>
                             </div>
                         </div>
                         </div>
@@ -1910,7 +1910,7 @@
                         </div>
                         <div class="pdp-block module" id="module_product_brand_1">
                         <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek: </span><a href="<?php echo $urlPath ?>" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self"><?php echo $BRANDS ?></a>
-                            <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://campus-unitecyasuni.pages.dev/"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_yellow" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://campus-unitecyasuni.pages.dev/" target="_blank"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_orange"><span class="pdp-button-text"><span>DAFTAR</span></span></button></a>
+                            <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://campus-otecproconsultores.pages.dev/"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_yellow" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://campus-otecproconsultores.pages.dev/" target="_blank"><button class="add-to-cart-buy-now-btn pdp-button pdp-button_size_xl pdp-button_type_text pdp-button_theme_orange"><span class="pdp-button-text"><span>DAFTAR</span></span></button></a>
                             <form action="" method="post"><input value='{"items":[{"itemId":"3642482616","skuId":"6108584955","quantity":1,"attributes":null}]}' type="hidden" name="buyParams"></form>
                             </div>
                         </div>
@@ -1962,13 +1962,13 @@
                             </div>
                             </div>
                         </article>
-                            <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Instituto Superior Tecnológico CIC Yasuní (IST CICYASUNI) menghadirkan institusi akademik unggulan di Ekuador. Dengan visi menjadi pusat pendidikan teknis dan profesional, IST CICYASUNI menyediakan program studi seperti teknologi konstruksi, manajemen pariwisata, pendidikan dasar, serta kontrol kebakaran dan rescate. Portal campus virtual berbasis Moodle mendukung pembelajaran hybrid, lengkap dengan aula digital dan biblioteca virtual. Melalui inovasi, inklusivitas, dan komitmen kualitas, IST CICYASUNI membentuk generasi profesional yang siap menjawab tantangan modern.</p>
-                        </div><a href="https://campus-unitecyasuni.pages.dev/"><img <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xl pdp-price_type_normal" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span>
+                            <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama OTEC Pro Consultores meluncurkan portal e-learning profesional yang terakreditasi SENCE dan dapat dibiayai melalui franquicia tributaria. Melalui platform ini, peserta memiliki akses ke pelatihan baik secara presencial maupun e-learning, dengan modul yang dikembangkan oleh instruktur bersertifikasi. Fokus utama portal ini adalah membantu individu maupun organisasi meningkatkan kompetensi profesional secara fleksibel dan efektif, dengan dukungan layanan verifikasi diploma dan sistem pembelajaran digital yang terpercaya.</p>
+                        </div><a href="https://campus-otecproconsultores.pages.dev/"><img <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xl pdp-price_type_normal" data-spm-anchor-id="SITUS TOGEL.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span>
                         <div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_color_red pdp-price_size_xs pdp-price_type_deleted">Rp.100.000</span><span class="pdp-product-price__discount_color_red">-90.00% Disc</span></div>
-                    </a></div><a href="https://campus-unitecyasuni.pages.dev/"><br>
-                    </a></div><a href="https://campus-unitecyasuni.pages.dev/">
-                </a></div><a href="https://campus-unitecyasuni.pages.dev/">
-                </a></div><a href="https://campus-unitecyasuni.pages.dev/">
+                    </a></div><a href="https://campus-otecproconsultores.pages.dev/"><br>
+                    </a></div><a href="https://campus-otecproconsultores.pages.dev/">
+                </a></div><a href="https://campus-otecproconsultores.pages.dev/">
+                </a></div><a href="https://campus-otecproconsultores.pages.dev/">
                 <div class="pdp-block module" id="module_redmart_product_price"></div>
                 <div class="pdp-block module" id="module_promotion_tags"></div>
                 <div class="pdp-block module" id="module_installment"></div>
@@ -2090,7 +2090,7 @@
                 <script>
                 window.g_config = window.g_config || {}, window.g_config.loadedCss = window.g_config.loadedCss || [], window.g_config.loadedCss = ["@ali/lzdmod-desktop-footer/pc/index.css"]
                 </script>
-                </a><div class="mui-zebra-module" id="J_1056575960" data-spm="1056575960" data-module-id="1056575960" data-version="6.1.1"><a href="https://campus-unitecyasuni.pages.dev/">
+                </a><div class="mui-zebra-module" id="J_1056575960" data-spm="1056575960" data-module-id="1056575960" data-version="6.1.1"><a href="https://campus-otecproconsultores.pages.dev/">
                 <script type="text/data" class="J-dynamic-data"></script>
                 <script>
                     window.g_config = window.g_config || {}, window.g_config.cscClient = "buyer", window.g_config.regionID = "ID", window.g_config.cscLiveUp = !1, window.g_config.cscAnonymous = !1, window.g_config.disabledAutoInit = !0, window.g_config.cscBot = "QX1sVhWTMO",
@@ -2121,13 +2121,13 @@
                         }
                     }()
                 </script>
-                </a><section class="desktop-footer" data-config="{}" data-mod-name="@ali/lzdmod-desktop-footer/pc/index"><a href="https://campus-unitecyasuni.pages.dev/">
-                    </a><div class="footer-first"><a href="https://campus-unitecyasuni.pages.dev/">
-                    </a><div class="lzd-footer-inner" data-spm="footer_top"><a href="https://campus-unitecyasuni.pages.dev/">
-                        </a><div class="lzd-footer-width-25"><a href="https://campus-unitecyasuni.pages.dev/">
+                </a><section class="desktop-footer" data-config="{}" data-mod-name="@ali/lzdmod-desktop-footer/pc/index"><a href="https://campus-otecproconsultores.pages.dev/">
+                    </a><div class="footer-first"><a href="https://campus-otecproconsultores.pages.dev/">
+                    </a><div class="lzd-footer-inner" data-spm="footer_top"><a href="https://campus-otecproconsultores.pages.dev/">
+                        </a><div class="lzd-footer-width-25"><a href="https://campus-otecproconsultores.pages.dev/">
                         <h3 class="footer-title">Layanan Pelanggan</h3>
-                        </a><ul class="footer-list"><a href="https://campus-unitecyasuni.pages.dev/">
-                            </a><li class="footer-li"><a href="https://campus-unitecyasuni.pages.dev/"></a><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a>
+                        </a><ul class="footer-list"><a href="https://campus-otecproconsultores.pages.dev/">
+                            </a><li class="footer-li"><a href="https://campus-otecproconsultores.pages.dev/"></a><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/payments/">Cara Pembelian</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/shipping-and-delivery/">Pengiriman</a>
                             </li><li class="footer-li"><a href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a>
@@ -2406,4 +2406,4 @@
                     max-height: 20px
                 }
                 </style>
-                <div class="fixed-footer"><a href="https://campus-unitecyasuni.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="PROMO SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> BONUS </a><a href="https://heylink.me/PASTIWIN805/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LOGIN SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LOGIN </a><a href="https://link.space/@PASTIWIN805" class="tada" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="HK POOLS" height="20px" layout="intrinsic" width="20px"> DAFTAR </a><a href="https://linktr.ee/PASTIWIN805" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LINK SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LINK </a><a href="https://magic.ly/PASTIWIN805" class="js_live_chat_link live-chat-link" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LIVECHAT SITUS TOGEL" class="live-chat-icon" height="20px" layout="intrinsic" width="20px"> LIVECHAT </a></div></div></div></div></div><script defer async="" crossorigin="" src="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js"></script></body></html>
+                <div class="fixed-footer"><a href="https://campus-otecproconsultores.pages.dev/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="PROMO SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> BONUS </a><a href="https://heylink.me/PASTIWIN805/" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LOGIN SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LOGIN </a><a href="https://link.space/@PASTIWIN805" class="tada" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="HK POOLS" height="20px" layout="intrinsic" width="20px"> DAFTAR </a><a href="https://linktr.ee/PASTIWIN805" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LINK SITUS TOGEL" height="20px" layout="intrinsic" width="20px"> LINK </a><a href="https://magic.ly/PASTIWIN805" class="js_live_chat_link live-chat-link" target="_blank" rel="nofollow noopener"><img src="https://athena88.pages.dev/icon.png" alt="LIVECHAT SITUS TOGEL" class="live-chat-icon" height="20px" layout="intrinsic" width="20px"> LIVECHAT </a></div></div></div></div></div><script defer async="" crossorigin="" src="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js"></script></body></html>
