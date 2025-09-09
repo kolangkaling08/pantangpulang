@@ -158,7 +158,7 @@
         as="image">
 
 
-    <title>Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional</title>
+    <title>Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik</title>
 
     <meta name="description"
         content="<?php echo $BRANDS ?> dan Foroly mendukung pendidikan teknik industri melalui model produksi nyata reaktor, dryer, dan storage vesse dengan pendekatan praktis melalui kemitraan kampus industri.">
@@ -201,7 +201,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional",
+  "name": "Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik",
   "image": "https://athena88.pages.dev/logo-1.png",
   "description": "<?php echo $BRANDS ?> dan Foroly mendukung pendidikan teknik industri melalui model produksi nyata reaktor, dryer, dan storage vesse dengan pendekatan praktis melalui kemitraan kampus industri.",
   "brand": {
@@ -362,7 +362,7 @@
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional">
+    <meta property="og:title" content="Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik">
     <meta property="og:description"
         content="<?php echo $BRANDS ?> dan Foroly mendukung pendidikan teknik industri melalui model produksi nyata reaktor, dryer, dan storage vesse dengan pendekatan praktis melalui kemitraan kampus industri.">
     <meta property="og:image" content="https://athena88.pages.dev/11.jpg">
@@ -371,10 +371,10 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional">
+    <meta name="twitter:title" content="Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik">
     <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Foroly mendukung pendidikan teknik industri melalui model produksi nyata reaktor, dryer, dan storage vesse dengan pendekatan praktis melalui kemitraan kampus industri.">
     <meta name="twitter:image" content="https://athena88.pages.dev/11.jpg">
-    <meta property="og:title" content="Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional">
+    <meta property="og:title" content="Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:image" content="https://athena88.pages.dev/11.jpg" />
@@ -1842,10 +1842,10 @@
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional
+                                            Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik
                                         </h1>
                                     </div>
 
@@ -1883,7 +1883,7 @@
                                         <strong>456.789</strong> Player Like <?php echo $BRANDS ?>
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional</strong>
+                                        <strong>Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -2042,7 +2042,7 @@
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
@@ -2084,13 +2084,13 @@
 
                                             <a target="_blank"
                                                 href="https://heylink.me/PASTIWIN805/"><img
-                                                    alt="Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional - WooCommerce eCommerce"
+                                                    alt="Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://athena88.pages.dev/11.jpg"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
                                                     src="https://athena88.pages.dev/11.jpg"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional Hari Ini - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2227,7 +2227,7 @@
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Foroly Engineering | <?php echo $BRANDS ?> Transformasi TI dan Konsultasi Profesional&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Foroly Engineering | <?php echo $BRANDS ?> Jembatan Antara Industri dan Pendidikan Teknik&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
                                                     action="<?php echo $urlPath ?>"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
