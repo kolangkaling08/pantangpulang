@@ -365,7 +365,7 @@
     <meta property="og:title" content="NSoft IT | <?php echo $BRANDS ?> Inovasi Software & Proyek Kolaboratif Mahasiswa">
     <meta property="og:description"
         content="<?php echo $BRANDS ?> dan NSoft IT menyelenggarakan program pelatihan digital untuk mahasiswa, meningkatkan keterampilan teknologi, analitik, dan pemasaran digital yang siap kerja.">
-    <meta property="og:image" content="https://athena88.pages.dev/12.jpg">
+    <meta property="og:image" content="https://athena88.pages.dev/1.jpg">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:type" content="website">
 
@@ -373,11 +373,11 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="NSoft IT | <?php echo $BRANDS ?> Inovasi Software & Proyek Kolaboratif Mahasiswa">
     <meta name="twitter:description" content="<?php echo $BRANDS ?> dan NSoft IT menyelenggarakan program pelatihan digital untuk mahasiswa, meningkatkan keterampilan teknologi, analitik, dan pemasaran digital yang siap kerja.">
-    <meta name="twitter:image" content="https://athena88.pages.dev/12.jpg">
+    <meta name="twitter:image" content="https://athena88.pages.dev/1.jpg">
     <meta property="og:title" content="NSoft IT | <?php echo $BRANDS ?> Inovasi Software & Proyek Kolaboratif Mahasiswa">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo $urlPath ?>">
-    <meta property="og:image" content="https://athena88.pages.dev/12.jpg" />
+    <meta property="og:image" content="https://athena88.pages.dev/1.jpg" />
     <meta property="og:description"
         content="<?php echo $BRANDS ?> dan NSoft IT menyelenggarakan program pelatihan digital untuk mahasiswa, meningkatkan keterampilan teknologi, analitik, dan pemasaran digital yang siap kerja.">
     <meta property="og:site_name" content="<?php echo $BRANDS ?>">
@@ -2086,9 +2086,9 @@
                                                 href="https://heylink.me/PASTIWIN805/"><img
                                                     alt="NSoft IT | <?php echo $BRANDS ?> Inovasi Software & Proyek Kolaboratif Mahasiswa - WooCommerce eCommerce"
                                                     width="300" height="300"
-                                                    srcset="https://athena88.pages.dev/12.jpg"
+                                                    srcset="https://athena88.pages.dev/1.jpg"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
-                                                    src="https://athena88.pages.dev/12.jpg"></a>
+                                                    src="https://athena88.pages.dev/1.jpg"></a>
                                             <div class="js- item-preview-image__gallery"
                                                 data-title="NSoft IT | <?php echo $BRANDS ?> Inovasi Software & Proyek Kolaboratif Mahasiswa Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
