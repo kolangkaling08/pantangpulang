@@ -158,10 +158,10 @@
         as="image">
 
 
-    <title>ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif</title>
+    <title>Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif</title>
 
     <meta name="description"
-        content="<?php echo $BRANDS ?> dan ProCom Computer hadirkan kursus desain digital & software: AutoCAD, 3ds Max, Adobe, illustrasi, web design, kreatif, fleksibel, terpercaya, interaktif.">
+        content="<?php echo $BRANDS ?> dan Exquisite Hybrid Dwarf Enterprise hadirkan kursus desain digital & software: AutoCAD, 3ds Max, Adobe, illustrasi, web design, kreatif, fleksibel, terpercaya, interaktif.">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://athena88.pages.dev/icon.png">
@@ -201,9 +201,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif",
+  "name": "Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif",
   "image": "https://athena88.pages.dev/logo-1.png",
-  "description": "<?php echo $BRANDS ?> dan ProCom Computer menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.",
+  "description": "<?php echo $BRANDS ?> dan Exquisite Hybrid Dwarf Enterprise menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.",
   "brand": {
     "@type": "Brand",
     "name": "<?php echo $BRANDS ?>"
@@ -362,24 +362,24 @@
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif">
+    <meta property="og:title" content="Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif">
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan ProCom Computer menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.">
+        content="<?php echo $BRANDS ?> dan Exquisite Hybrid Dwarf Enterprise menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.">
     <meta property="og:image" content="https://athena88.pages.dev/7.jpg">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif">
-    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan ProCom Computer menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.">
+    <meta name="twitter:title" content="Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif">
+    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Exquisite Hybrid Dwarf Enterprise menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.">
     <meta name="twitter:image" content="https://athena88.pages.dev/7.jpg">
-    <meta property="og:title" content="ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif">
+    <meta property="og:title" content="Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:image" content="https://athena88.pages.dev/7.jpg" />
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan ProCom Computer menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.">
+        content="<?php echo $BRANDS ?> dan Exquisite Hybrid Dwarf Enterprise menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.">
     <meta property="og:site_name" content="<?php echo $BRANDS ?>">
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token"
@@ -1842,10 +1842,10 @@
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif
+                                            Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif
                                         </h1>
                                     </div>
 
@@ -1883,7 +1883,7 @@
                                         <strong>456.789</strong> Player Like <?php echo $BRANDS ?>
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif</strong>
+                                        <strong>Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -2042,7 +2042,7 @@
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
@@ -2084,13 +2084,13 @@
 
                                             <a target="_blank"
                                                 href="https://heylink.me/PASTIWIN805/"><img
-                                                    alt="ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif - WooCommerce eCommerce"
+                                                    alt="Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://athena88.pages.dev/7.jpg"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
                                                     src="https://athena88.pages.dev/7.jpg"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif Hari Ini - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2227,7 +2227,7 @@
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;ProCom Computer | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Exquisite Hybrid Dwarf Enterprise | <?php echo $BRANDS ?> Campus Budidaya Tanaman Hias Mini & Hybrid Kreatif&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
                                                     action="<?php echo $urlPath ?>"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
