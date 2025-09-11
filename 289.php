@@ -115,7 +115,7 @@
 <script type="text/javascript" async=""
     src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545"
     nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://about-aeroindiahotels.pages.dev/?q=<?php echo $BRANDS1 ?>" />
+<link rel="amphtml" href="https://about-consultant-cieloconsulting.pages.dev/?q=<?php echo $BRANDS1 ?>" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -158,10 +158,10 @@
         as="image">
 
 
-    <title>Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara</title>
+    <title>Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ</title>
 
     <meta name="description"
-        content="<?php echo $BRANDS ?> dan Aero Hotel Bengaluru menghadirkan penginapan nyaman dengan fasilitas lengkap, akses mudah ke bandara, serta layanan profesional untuk wisatawan dan pebisnis.">
+        content="<?php echo $BRANDS ?> dan Cielo Consulting menawarkan layanan PR dan pemasaran butik untuk klien kecil hingga menengah di NJ dan NYC Metro, dengan pendekatan personal dan strategi kreatif.">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://athena88.pages.dev/icon.png">
@@ -201,9 +201,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara",
+  "name": "Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ",
   "image": "https://athena88.pages.dev/logo-1.png",
-  "description": "<?php echo $BRANDS ?> dan Aero Hotel Bengaluru menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.",
+  "description": "<?php echo $BRANDS ?> dan Cielo Consulting menawarkan layanan PR dan pemasaran butik untuk klien kecil hingga menengah di NJ dan NYC Metro, dengan pendekatan personal dan strategi kreatif.",
   "brand": {
     "@type": "Brand",
     "name": "<?php echo $BRANDS ?>"
@@ -362,24 +362,24 @@
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara">
+    <meta property="og:title" content="Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ">
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan Aero Hotel Bengaluru menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.">
+        content="<?php echo $BRANDS ?> dan Cielo Consulting menawarkan layanan PR dan pemasaran butik untuk klien kecil hingga menengah di NJ dan NYC Metro, dengan pendekatan personal dan strategi kreatif.">
     <meta property="og:image" content="https://athena88.pages.dev/3.jpg">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara">
-    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Aero Hotel Bengaluru menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.">
+    <meta name="twitter:title" content="Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ">
+    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Cielo Consulting menawarkan layanan PR dan pemasaran butik untuk klien kecil hingga menengah di NJ dan NYC Metro, dengan pendekatan personal dan strategi kreatif.">
     <meta name="twitter:image" content="https://athena88.pages.dev/3.jpg">
-    <meta property="og:title" content="Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara">
+    <meta property="og:title" content="Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:image" content="https://athena88.pages.dev/3.jpg" />
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan Aero Hotel Bengaluru menghadirkan solusi digital: mobile apps, e-commerce, digital marketing, web design, US & domestic staffing, real estate, inovatif, terpercaya.">
+        content="<?php echo $BRANDS ?> dan Cielo Consulting menawarkan layanan PR dan pemasaran butik untuk klien kecil hingga menengah di NJ dan NYC Metro, dengan pendekatan personal dan strategi kreatif.">
     <meta property="og:site_name" content="<?php echo $BRANDS ?>">
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token"
@@ -1842,10 +1842,10 @@
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara
+                                            Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ
                                         </h1>
                                     </div>
 
@@ -1883,7 +1883,7 @@
                                         <strong>456.789</strong> Player Like <?php echo $BRANDS ?>
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara</strong>
+                                        <strong>Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -2042,7 +2042,7 @@
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
@@ -2084,13 +2084,13 @@
 
                                             <a target="_blank"
                                                 href="https://heylink.me/PASTIWIN805/"><img
-                                                    alt="Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara - WooCommerce eCommerce"
+                                                    alt="Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://athena88.pages.dev/3.jpg"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
                                                     src="https://athena88.pages.dev/3.jpg"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara Hari Ini - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2227,7 +2227,7 @@
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Aero Hotel Bengaluru | <?php echo $BRANDS ?> Akomodasi Nyaman Dekat Bandara&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Cielo Consulting | <?php echo $BRANDS ?> Agensi PR & Pemasaran Butik di NJ&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
                                                     action="<?php echo $urlPath ?>"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
@@ -2398,7 +2398,7 @@
                                                         </p>
 
                                                        <div class="purchase-form__cta-buttons" bis_skin_checked="1">
-                                                        <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Aero Hotel Bengaluru menawarkan akomodasi strategis hanya beberapa menit dari Bandara Internasional Kempegowda. Hotel menyediakan kamar modern dengan AC, TV layar datar, Wi-Fi gratis, dan kamar mandi pribadi. Layanan kamar 24 jam, kebersihan harian, serta staf yang ramah menjamin kenyamanan tamu. Dengan lokasi dekat pusat kota, hotel ini memudahkan akses ke berbagai destinasi wisata dan kawasan bisnis Bengaluru. Aero Hotel ideal untuk wisatawan maupun pelancong bisnis yang mengutamakan kenyamanan, efisiensi, dan pengalaman menginap berkualitas.</p>
+                                                        <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Cielo Consulting menawarkan akomodasi strategis hanya beberapa menit dari Bandara Internasional Kempegowda. Hotel menyediakan kamar modern dengan AC, TV layar datar, Wi-Fi gratis, dan kamar mandi pribadi. Layanan kamar 24 jam, kebersihan harian, serta staf yang ramah menjamin kenyamanan tamu. Dengan lokasi dekat pusat kota, hotel ini memudahkan akses ke berbagai destinasi wisata dan kawasan bisnis Bengaluru. Aero Hotel ideal untuk wisatawan maupun pelancong bisnis yang mengutamakan kenyamanan, efisiensi, dan pengalaman menginap berkualitas.</p>
                                                                                                                     <div class="purchase-form__button" bis_skin_checked="1">
                                                             </div>
 
@@ -2494,7 +2494,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://aeroindiahotels.in/about/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
+                                                        <a href="https://cieloconsulting.biz/consultant/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2509,7 +2509,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://aeroindiahotels.in/about/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
+                                                        <a href="https://cieloconsulting.biz/consultant/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
