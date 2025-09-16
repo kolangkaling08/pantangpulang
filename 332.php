@@ -115,7 +115,7 @@
 <script type="text/javascript" async=""
     src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545"
     nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://program-puppykingdomsg.pages.dev/?q=<?php echo $BRANDS1 ?>" />
+<link rel="amphtml" href="https://premium-sigesittb.pages.dev/?q=<?php echo $BRANDS1 ?>" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -2494,7 +2494,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://puppykingdomsg.com/program/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
+                                                        <a href="https://sigesittb.com/premium/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2509,7 +2509,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://puppykingdomsg.com/program/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
+                                                        <a href="https://sigesittb.com/premium/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
