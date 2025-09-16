@@ -115,7 +115,7 @@
 <script type="text/javascript" async=""
     src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545"
     nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://about-lurexx.pages.dev/?q=<?php echo $BRANDS1 ?>" />
+<link rel="amphtml" href="https://campus-prosciuttosaintmarcel.pages.dev/?q=<?php echo $BRANDS1 ?>" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -158,10 +158,10 @@
         as="image">
 
 
-    <title>Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus</title>
+    <title>Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus</title>
 
     <meta name="description"
-        content="<?php echo $BRANDS ?> dan Lurex Aviamentos Têxteis mendukung pendidikan kampus dengan aksesori tekstil berkualitas, mendorong kreativitas mahasiswa dalam mode, desain, serta proyek akademik kolaboratif.">
+        content="<?php echo $BRANDS ?> dan Prosciutto Saint Marcel mendukung pendidikan kampus dengan pengalaman kuliner otentik, memperkenalkan budaya makanan Italia ke dunia akademis dan mahasiswa.">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://athena88.pages.dev/icon.png">
@@ -201,9 +201,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus",
+  "name": "Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus",
   "image": "https://athena88.pages.dev/logo-1.png",
-  "description": "<?php echo $BRANDS ?> dan Lurex Aviamentos Têxteis mendukung pendidikan kampus dengan aksesori tekstil berkualitas, mendorong kreativitas mahasiswa dalam mode, desain, serta proyek akademik kolaboratif.",
+  "description": "<?php echo $BRANDS ?> dan Prosciutto Saint Marcel mendukung pendidikan kampus dengan pengalaman kuliner otentik, memperkenalkan budaya makanan Italia ke dunia akademis dan mahasiswa.",
   "brand": {
     "@type": "Brand",
     "name": "<?php echo $BRANDS ?>"
@@ -362,24 +362,24 @@
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus">
+    <meta property="og:title" content="Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus">
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan Lurex Aviamentos Têxteis mendukung pendidikan kampus dengan aksesori tekstil berkualitas, mendorong kreativitas mahasiswa dalam mode, desain, serta proyek akademik kolaboratif.">
+        content="<?php echo $BRANDS ?> dan Prosciutto Saint Marcel mendukung pendidikan kampus dengan pengalaman kuliner otentik, memperkenalkan budaya makanan Italia ke dunia akademis dan mahasiswa.">
     <meta property="og:image" content="https://athena88.pages.dev/3.jpg">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus">
-    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Lurex Aviamentos Têxteis mendukung pendidikan kampus dengan aksesori tekstil berkualitas, mendorong kreativitas mahasiswa dalam mode, desain, serta proyek akademik kolaboratif.">
+    <meta name="twitter:title" content="Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus">
+    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Prosciutto Saint Marcel mendukung pendidikan kampus dengan pengalaman kuliner otentik, memperkenalkan budaya makanan Italia ke dunia akademis dan mahasiswa.">
     <meta name="twitter:image" content="https://athena88.pages.dev/3.jpg">
-    <meta property="og:title" content="Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus">
+    <meta property="og:title" content="Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:image" content="https://athena88.pages.dev/3.jpg" />
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan Lurex Aviamentos Têxteis mendukung pendidikan kampus dengan aksesori tekstil berkualitas, mendorong kreativitas mahasiswa dalam mode, desain, serta proyek akademik kolaboratif.">
+        content="<?php echo $BRANDS ?> dan Prosciutto Saint Marcel mendukung pendidikan kampus dengan pengalaman kuliner otentik, memperkenalkan budaya makanan Italia ke dunia akademis dan mahasiswa.">
     <meta property="og:site_name" content="<?php echo $BRANDS ?>">
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token"
@@ -1842,10 +1842,10 @@
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus
+                                            Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus
                                         </h1>
                                     </div>
 
@@ -1883,7 +1883,7 @@
                                         <strong>456.789</strong> Player Like <?php echo $BRANDS ?>
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus</strong>
+                                        <strong>Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -2042,7 +2042,7 @@
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
@@ -2084,13 +2084,13 @@
 
                                             <a target="_blank"
                                                 href="https://heylink.me/PASTIWIN805/"><img
-                                                    alt="Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus - WooCommerce eCommerce"
+                                                    alt="Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://athena88.pages.dev/3.jpg"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
                                                     src="https://athena88.pages.dev/3.jpg"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus Hari Ini - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2227,7 +2227,7 @@
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Lurex Aviamentos Têxteis | <?php echo $BRANDS ?> Inspirasi Kreatif di Dunia Pendidikan Kampus&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Prosciutto Saint Marcel | <?php echo $BRANDS ?> Edukasi Kuliner di Lingkungan Kampus&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
                                                     action="<?php echo $urlPath ?>"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
@@ -2398,7 +2398,7 @@
                                                         </p>
 
                                                        <div class="purchase-form__cta-buttons" bis_skin_checked="1">
-                                                        <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Lurex Aviamentos Têxteis menghadirkan dukungan nyata bagi dunia kampus melalui aksesori tekstil dan bahan kreatif yang menunjang pembelajaran. Mahasiswa di bidang mode, desain, maupun seni rupa sering kali membutuhkan material berkualitas untuk proyek akademik mereka, dan Lurex hadir sebagai mitra andal. Dengan pengalaman dalam menyediakan produk jahit dan finishing tekstil, perusahaan ini membantu kampus menciptakan ruang eksplorasi yang lebih luas bagi mahasiswanya. Kreativitas mahasiswa tidak hanya berkembang di ruang kelas, tetapi juga dalam praktik nyata menggunakan material yang mendukung ide-ide inovatif. Bersama Lurex Aviamentos Têxteis, <?php echo $BRANDS ?> menunjukkan bagaimana pendidikan dapat diperkuat lewat kolaborasi, menghubungkan dunia industri dengan generasi muda yang siap membawa perubahan.</p>
+                                                        <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Prosciutto Saint Marcel menghadirkan sentuhan unik dalam dunia pendidikan dengan mengenalkan kuliner tradisional Italia ke lingkungan kampus. Mahasiswa tidak hanya belajar teori, tetapi juga memahami budaya melalui rasa, sejarah, dan proses produksi prosciutto. Di kelas kuliner, gizi, maupun studi budaya, produk asli Valle d’Aosta ini dapat menjadi contoh nyata bagaimana tradisi dan ilmu pengetahuan berpadu. Prosciutto Saint Marcel yang dibuat dengan metode alami dan bumbu pegunungan menjadi inspirasi dalam diskusi tentang keberlanjutan pangan, inovasi kuliner, dan identitas budaya. Dengan cara ini, <?php echo $BRANDS ?> bersama Prosciutto Saint Marcel mendukung mahasiswa untuk berpikir kritis, kreatif, dan menghargai warisan gastronomi sebagai bagian dari pembelajaran akademik.</p>
                                                                                                                     <div class="purchase-form__button" bis_skin_checked="1">
                                                             </div>
 
@@ -2494,7 +2494,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://www.lurexx.com.br/about/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
+                                                        <a href="https://www.prosciuttosaintmarcel.it/campus/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2509,7 +2509,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://www.lurexx.com.br/about/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
+                                                        <a href="https://www.prosciuttosaintmarcel.it/campus/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
