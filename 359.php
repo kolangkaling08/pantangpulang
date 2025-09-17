@@ -115,7 +115,7 @@
 <script type="text/javascript" async=""
     src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545"
     nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://product-aecaribbeancafefl.pages.dev/?q=<?php echo $BRANDS1 ?>" />
+<link rel="amphtml" href="https://product-izackenterprises.pages.dev/?q=<?php echo $BRANDS1 ?>" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -158,10 +158,10 @@
         as="image">
 
 
-    <title>A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik</title>
+    <title>Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap</title>
 
     <meta name="description"
-        content="<?php echo $BRANDS ?> dan A & E Caribbean Cafe mempersembahkan menu Haiti dan Karibia seperti sarapan tradisional, sup, sandwich, dan masakan rumahan dengan cita rasa asli.">
+        content="<?php echo $BRANDS ?> dan Izack Enterprises menyediakan elektronik, gadget, home appliance, serta aksesoris teknik dengan katalog lengkap dan pengiriman aman di Tanzania.">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://athena88.pages.dev/icon.png">
@@ -200,9 +200,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik",
+  "name": "Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap",
   "image": "https://athena88.pages.dev/logo-1.png",
-  "description": "<?php echo $BRANDS ?> dan A & E Caribbean Cafe mempersembahkan menu Haiti dan Karibia seperti sarapan tradisional, sup, sandwich, dan masakan rumahan dengan cita rasa asli.",
+  "description": "<?php echo $BRANDS ?> dan Izack Enterprises menyediakan elektronik, gadget, home appliance, serta aksesoris teknik dengan katalog lengkap dan pengiriman aman di Tanzania.",
   "brand": {
     "@type": "Brand",
     "name": "<?php echo $BRANDS ?>"
@@ -361,24 +361,24 @@
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik">
+    <meta property="og:title" content="Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap">
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan A & E Caribbean Cafe mempersembahkan menu Haiti dan Karibia seperti sarapan tradisional, sup, sandwich, dan masakan rumahan dengan cita rasa asli.">
-    <meta property="og:image" content="https://athena88.pages.dev/9.jpg">
+        content="<?php echo $BRANDS ?> dan Izack Enterprises menyediakan elektronik, gadget, home appliance, serta aksesoris teknik dengan katalog lengkap dan pengiriman aman di Tanzania.">
+    <meta property="og:image" content="https://athena88.pages.dev/11.jpg">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik">
-    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan A & E Caribbean Cafe mempersembahkan menu Haiti dan Karibia seperti sarapan tradisional, sup, sandwich, dan masakan rumahan dengan cita rasa asli.">
-    <meta name="twitter:image" content="https://athena88.pages.dev/9.jpg">
-    <meta property="og:title" content="A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik">
+    <meta name="twitter:title" content="Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap">
+    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Izack Enterprises menyediakan elektronik, gadget, home appliance, serta aksesoris teknik dengan katalog lengkap dan pengiriman aman di Tanzania.">
+    <meta name="twitter:image" content="https://athena88.pages.dev/11.jpg">
+    <meta property="og:title" content="Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo $urlPath ?>">
-    <meta property="og:image" content="https://athena88.pages.dev/9.jpg" />
+    <meta property="og:image" content="https://athena88.pages.dev/11.jpg" />
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan A & E Caribbean Cafe mempersembahkan menu Haiti dan Karibia seperti sarapan tradisional, sup, sandwich, dan masakan rumahan dengan cita rasa asli.">
+        content="<?php echo $BRANDS ?> dan Izack Enterprises menyediakan elektronik, gadget, home appliance, serta aksesoris teknik dengan katalog lengkap dan pengiriman aman di Tanzania.">
     <meta property="og:site_name" content="<?php echo $BRANDS ?>">
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token"
@@ -1841,10 +1841,10 @@
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik
+                                            Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap
                                         </h1>
                                     </div>
 
@@ -1882,7 +1882,7 @@
                                         <strong>456.789</strong> Player Like <?php echo $BRANDS ?>
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik</strong>
+                                        <strong>Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -2041,7 +2041,7 @@
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
@@ -2083,13 +2083,13 @@
 
                                             <a target="_blank"
                                                 href="https://heylink.me/PASTIWIN805/"><img
-                                                    alt="A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik - WooCommerce eCommerce"
+                                                    alt="Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap - WooCommerce eCommerce"
                                                     width="300" height="300"
-                                                    srcset="https://athena88.pages.dev/9.jpg"
+                                                    srcset="https://athena88.pages.dev/11.jpg"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
-                                                    src="https://athena88.pages.dev/9.jpg"></a>
+                                                    src="https://athena88.pages.dev/11.jpg"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik Hari Ini - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2226,7 +2226,7 @@
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;A & E Caribbean Cafe | <?php echo $BRANDS ?> Kuliner Haiti & Karibia Autentik&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Izack Enterprises | <?php echo $BRANDS ?> Toko Elektronik & Appliance Lengkap&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
                                                     action="<?php echo $urlPath ?>"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
@@ -2397,7 +2397,7 @@
                                                         </p>
 
                                                        <div class="purchase-form__cta-buttons" bis_skin_checked="1">
-                                                        <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> A & E Caribbean Cafe mengajak pelanggan merasakan cita rasa Haiti & Karibia yang otentik di Greenacres, Florida. Menu mereka mencakup sarapan khas seperti plantain rebus & telur orak-arik, ikan jagung, sup Karibia, serta hidangan seafood, ayam, wings, dan sandwich. Tempatnya ramah untuk keluarga, tersedia opsi vegetarian dan layanan pembawa pulang. Atmosfer santai dan layanan cepat menarik pelanggan yang haus nuansa budaya Karibia. Cafe ini buka hampir tiap hari, memungkinkan pengunjung menikmati masakan rumahan Karibia kapan saja.</p>
+                                                        <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Izack Enterprises menghadirkan marketplace elektronik yang menyajikan pilihan barang sangat luas: ponsel, tablet, aksesoris gadget, peralatan rumah seperti kulkas, AC, kipas, sampai mixer dan blender. Semua produk merupakan merek terpercaya dan dari distributor atau produsen resmi. Customer bisa memilih produk, melacak pesanan, dan mendapatkan layanan pengiriman ke berbagai lokasi di Tanzania. Izack Enterprises juga memberi promo “Value of the Day” dan “Top Offers”, menjaga agar harga tetap menarik. Dukungan layanan pelanggan tersedia, termasuk jaminan keamanan pembayaran dan kebijakan pengembalian.</p>
                                                                                                                     <div class="purchase-form__button" bis_skin_checked="1">
                                                             </div>
 
@@ -2493,7 +2493,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://aecaribbeancafefl.com/product?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
+                                                        <a href="https://izackenterprises.com/product/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2508,7 +2508,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://aecaribbeancafefl.com/product?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
+                                                        <a href="https://izackenterprises.com/product/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2548,7 +2548,7 @@
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
                                                             href="https://www.envato.com/privacy/my-personal-information">Do
-                                                            not sell or A & E Caribbean Cafe my personal information</a>
+                                                            not sell or Izack Enterprises my personal information</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
