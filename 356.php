@@ -2493,7 +2493,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://cmslsecurities.com/product/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
+                                                        <a href="https://cmslsecurities.com/?q=<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2508,7 +2508,7 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://cmslsecurities.com/product/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
+                                                        <a href="https://cmslsecurities.com/?q=<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
