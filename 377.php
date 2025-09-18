@@ -158,7 +158,7 @@
         as="image">
 
 
-    <title><?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko</title>
+    <title><?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia</title>
 
     <meta name="description"
         content="<?php echo $BRANDS ?> dan Kairoc EDU menyediakan kursus kecantikan profesional secara online di Polandia, membantu peserta mengembangkan keterampilan di bidang tata rias dan pewarnaan rambut.">
@@ -200,7 +200,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "<?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko",
+  "name": "<?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia",
   "image": "https://justkid.pages.dev/logo.png",
   "description": "<?php echo $BRANDS ?> dan Kairoc EDU menyediakan kursus kecantikan profesional secara online di Polandia, membantu peserta mengembangkan keterampilan di bidang tata rias dan pewarnaan rambut.",
   "brand": {
@@ -361,7 +361,7 @@
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="<?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko">
+    <meta property="og:title" content="<?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia">
     <meta property="og:description"
         content="<?php echo $BRANDS ?> dan Kairoc EDU menyediakan kursus kecantikan profesional secara online di Polandia, membantu peserta mengembangkan keterampilan di bidang tata rias dan pewarnaan rambut.">
     <meta property="og:image" content="https://justkid.pages.dev/13.png">
@@ -370,10 +370,10 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="<?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko">
+    <meta name="twitter:title" content="<?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia">
     <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Kairoc EDU menyediakan kursus kecantikan profesional secara online di Polandia, membantu peserta mengembangkan keterampilan di bidang tata rias dan pewarnaan rambut.">
     <meta name="twitter:image" content="https://justkid.pages.dev/13.png">
-    <meta property="og:title" content="<?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko">
+    <meta property="og:title" content="<?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:image" content="https://justkid.pages.dev/13.png" />
@@ -1841,10 +1841,10 @@
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone"><?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone"><?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            <?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko
+                                            <?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia
                                         </h1>
                                     </div>
 
@@ -1882,7 +1882,7 @@
                                         <strong>456.789</strong> Player Like <?php echo $BRANDS ?>
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong><?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko</strong>
+                                        <strong><?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -2041,7 +2041,7 @@
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": <?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": <?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
@@ -2083,13 +2083,13 @@
 
                                             <a target="_blank"
                                                 href="https://heylink.me/PASTIWIN805/"><img
-                                                    alt="<?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko - WooCommerce eCommerce"
+                                                    alt="<?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://justkid.pages.dev/13.png"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
                                                     src="https://justkid.pages.dev/13.png"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="<?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko Hari Ini - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="<?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2226,7 +2226,7 @@
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;<?php echo $BRANDS ?> | Bienestar Seguridad Industrial Layanan Kesehatan dan Keselamatan Kerja di Meksiko&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;<?php echo $BRANDS ?> | Kairoc EDU Akademi Online Profesional di Polandia&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
                                                     action="<?php echo $urlPath ?>"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
