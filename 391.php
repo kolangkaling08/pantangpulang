@@ -2929,16 +2929,16 @@
     <meta content="id" name="language" />
     <meta content="id" name="geo.country" />
     <meta http-equiv="content-language" content="In-Id" />
-    <title><?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara</title>
-    <link rel="amphtml" href="https://model-medradix.pages.dev/?q=<?php echo $BRANDS1 ?>" />
-    <meta name="description" content="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional." itemprop="description" />
-    <meta name="originalTitle" content="<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara" />
+    <title><?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri</title>
+    <link rel="amphtml" href="https://product-ozdoganmadeniyag.pages.dev/?q=<?php echo $BRANDS1 ?>" />
+    <meta name="description" content="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional." itemprop="description" />
+    <meta name="originalTitle" content="<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri" />
     <meta charset="utf-8"> 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="<?php echo $BRANDS ?>" />
-    <meta property="og:title" content="<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara" />
+    <meta property="og:title" content="<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri" />
     <meta property="og:image" content="https://justkid.pages.dev/24.png" />
-    <meta property="og:description" content="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional." />
+    <meta property="og:description" content="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional." />
     <meta property="og:url" content="<?php echo $urlPath ?>" />
     <meta property="fb:app_id" content="187960271237149" />
     <meta property="fb:admins" content="100000607566694" />
@@ -2962,7 +2962,7 @@
 
     <meta name="idfokus" content="<?php echo $BRANDS ?>" />
     <meta name="author" content="<?php echo $BRANDS ?>" />
-    <meta content="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional." itemprop="headline" />
+    <meta content="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional." itemprop="headline" />
     <meta name="keywords" content="yusuf dikec,olimpiade paris,olimpiade paris 2024" itemprop="keywords" />
     <meta name="thumbnailUrl" content="https://justkid.pages.dev/24.png" itemprop="thumbnailUrl" />
     <meta property="article:author" content="https://www.facebook.com/" itemprop="author" />
@@ -2975,7 +2975,7 @@
     <meta name="twitter:site" content="" />
     <meta name="twitter:site:id" content="" />
     <meta name="twitter:creator" content="" />
-    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional." />
+    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional." />
     <meta name="twitter:image" content="https://justkid.pages.dev/24.png" />
 
     <link rel="canonical" href="<?php echo $urlPath ?>" />
@@ -3030,7 +3030,7 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "headline": "<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara",
+            "headline": "<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri",
             "url": "https://inet.detik.com/cyberlife/d-7470123/jadi-sensasi-internet-penembak-turki-agak-lain-angkat-bicara",
             "datePublished": "2024-08-02T14:04:25+07:00",
             "image": "https://res.cloudinary.com/dlnvwjm0j/image/upload/v1722855586/cocain_eogid1.jpg",
@@ -3045,7 +3045,7 @@
                 "@type": "WebPage",
                 "@id": "https://inet.detik.com/cyberlife/d-7470123/jadi-sensasi-internet-penembak-turki-agak-lain-angkat-bicara"
             },
-            "headline": "<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara",
+            "headline": "<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri",
             "image": {
                 "@type": "ImageObject",
                 "url": "https://res.cloudinary.com/dlnvwjm0j/image/upload/v1722855586/cocain_eogid1.jpg"
@@ -3064,7 +3064,7 @@
                     "url": "https://awscdn.detik.net.id/detik2/images/logo.jpg"
                 }
             },
-            "description": "<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional."
+            "description": "<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional."
         }
         </script>
             <script type="application/ld+json">
@@ -3075,7 +3075,7 @@
 "alternateName": "Situs Toto Slot",
 "url": "<?php echo $urlPath ?>",
 "logo": "https://justkid.pages.dev/logo.png",
-"description": "<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional.",
+"description": "<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional.",
 "address": {
 "@type": "PostalAddress",
    "streetAddress": "Jln. Ambai - Kel. Amplas - Kec. Medan Amplas - MEDAN",
@@ -4178,7 +4178,7 @@
 
             <div class="detail__header">
 
-                <h1 class="detail__title"><?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara</h1>
+                <h1 class="detail__title"><?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri</h1>
                 <div class="detail__author"><?php echo $BRANDS ?></div>
 
             </div>
@@ -4207,7 +4207,7 @@
                             Foto: <?php echo $BRANDS ?></figcaption>
                     </figure>
                 </div>
-                <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Medradix memperkenalkan perusahaan tekstil medis berbasis di Ankara, Turki, yang bergerak di bidang impor dan ekspor produk kesehatan. Medradix berfokus menyediakan tekstil medis berkualitas tinggi untuk rumah sakit, klinik, serta industri kesehatan. Dengan jaringan distribusi internasional, mereka memastikan produk sampai ke berbagai negara dengan standar mutu ketat. Inovasi, kualitas, dan kepuasan pelanggan menjadi pilar utama Medradix. Perusahaan ini terus berkembang sebagai mitra terpercaya dalam penyediaan solusi tekstil medis modern.</p>
+                <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Özdoğan Madeni Yağ memperkenalkan produsen pelumas dan oli industri yang berlokasi di OSTİM, Ankara. Perusahaan ini menghadirkan beragam produk pelumasan untuk kendaraan, mesin industri, dan sektor komersial. Dengan teknologi modern dan kontrol kualitas yang ketat, setiap produk menjamin performa maksimal, daya tahan tinggi, serta efisiensi mesin. Özdoğan Madeni Yağ telah dipercaya oleh banyak pelanggan nasional, menjadikannya mitra penting dalam industri pelumasan di Turki.</p>
 
                 <table class="linksisip">
                     <tbody>
@@ -4215,7 +4215,7 @@
                             <td>
                                 <div class="lihatjg"><strong>Baca juga: </strong><a data-label="List Berita"
                                         data-action="Berita Pilihan" data-category="Detil Artikel" href="#">Viral
-                                        <?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara</a></div>
+                                        <?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri</a></div>
                             </td>
                         </tr>
                     </tbody>
@@ -4330,9 +4330,9 @@
                 <a dtr-evt="floating komentar" dtr-sec="tombol komentar" dtr-act="tombol komentar" onclick="_pt(this)"
                     dtr-ttl="komentar" rel="nofollow" href="#comm1"
                     data-url="https://inet.detik.com/cyberlife/d-7470123/jadi-sensasi-internet-penembak-turki-agak-lain-angkat-bicara"
-                    data-title="<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara"
+                    data-title="<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri"
                     data-image="https://res.cloudinary.com/dlnvwjm0j/image/upload/v1722855586/cocain_eogid1.jpg"
-                    data-desc="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional."
+                    data-desc="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional."
                     class="icon-item clickto_comment sh-komentar">
                     <i class="icon icon--md icon-comment color-black"></i>
                     <span class="comment-count">0</span>
@@ -4340,41 +4340,41 @@
                 <a dtr-evt="floating share" dtr-sec="share socmed" dtr-act="share facebook" onclick="_pt(this)"
                     dtr-ttl="facebook" href="#" class="fb icon-item icon-item__fb"
                     data-url="https://inet.detik.com/cyberlife/d-7470123/jadi-sensasi-internet-penembak-turki-agak-lain-angkat-bicara?utm_source=facebook&utm_campaign=detikcomsocmed&utm_medium=btn&utm_content=inet"
-                    data-title="<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara"
+                    data-title="<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri"
                     data-image="https://res.cloudinary.com/dlnvwjm0j/image/upload/v1722855586/cocain_eogid1.jpg"
-                    data-desc="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional.">
+                    data-desc="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional.">
                     <i class="icon icon--xs icon-facebook"></i>
                 </a>
                 <a dtr-evt="floating share" dtr-sec="share socmed" dtr-act="share twitter" onclick="_pt(this)"
                     dtr-ttl="twitter" href="#" class="tw icon-item icon-item__tw"
                     data-url="https://inet.detik.com/cyberlife/d-7470123/jadi-sensasi-internet-penembak-turki-agak-lain-angkat-bicara?utm_source=twitter&utm_campaign=detikcomsocmed&utm_medium=btn&utm_content=inet"
-                    data-title="<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara"
+                    data-title="<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri"
                     data-image="https://res.cloudinary.com/dlnvwjm0j/image/upload/v1722855586/cocain_eogid1.jpg"
-                    data-desc="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional.">
+                    data-desc="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional.">
                     <i class="icon icon--xs icon-twitter"></i>
                 </a>
                 <a dtr-evt="floating share" dtr-sec="share socmed" dtr-act="share whatsapp" onclick="_pt(this)"
                     dtr-ttl="whatsapp" href="#" class="whatsap icon-item icon-item__wa"
                     data-url="https://inet.detik.com/cyberlife/d-7470123/jadi-sensasi-internet-penembak-turki-agak-lain-angkat-bicara?utm_source=whatsapp&utm_campaign=detikcomsocmed&utm_medium=btn&utm_content=inet"
-                    data-title="<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara"
+                    data-title="<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri"
                     data-image="https://res.cloudinary.com/dlnvwjm0j/image/upload/v1722855586/cocain_eogid1.jpg"
-                    data-desc="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional.">
+                    data-desc="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional.">
                     <i class="icon icon--xs icon-whatsapp"></i>
                 </a>
                 <a dtr-evt="floating share" dtr-sec="share socmed" dtr-act="share telegram" onclick="_pt(this)"
                     dtr-ttl="telegram" href="#" class="tele icon-item icon-item__tele sh-telegram"
                     data-url="https://inet.detik.com/cyberlife/d-7470123/jadi-sensasi-internet-penembak-turki-agak-lain-angkat-bicara?utm_source=telegram&utm_campaign=detikcomsocmed&utm_medium=btn&utm_content=inet"
-                    data-title="<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara"
+                    data-title="<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri"
                     data-image="https://res.cloudinary.com/dlnvwjm0j/image/upload/v1722855586/cocain_eogid1.jpg"
-                    data-desc="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional.">
+                    data-desc="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional.">
                     <i class="icon icon--xs icon-telegram"></i>
                 </a>
                 <a dtr-evt="floating share" dtr-sec="" dtr-act="copy link" onclick="_pt(this)" dtr-ttl="link" href="#"
                     class="icon-item icon-item__link copy_url"
                     data-url="https://inet.detik.com/cyberlife/d-7470123/jadi-sensasi-internet-penembak-turki-agak-lain-angkat-bicara?utm_source=copy_url&utm_campaign=detikcomsocmed&utm_medium=btn&utm_content=inet"
-                    data-title="<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara"
+                    data-title="<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri"
                     data-image="https://res.cloudinary.com/dlnvwjm0j/image/upload/v1722855586/cocain_eogid1.jpg"
-                    data-desc="<?php echo $BRANDS ?> dan Medradix menawarkan produk tekstil medis inovatif dengan layanan ekspor impor, mendukung kebutuhan rumah sakit dan industri kesehatan internasional.">
+                    data-desc="<?php echo $BRANDS ?> dan Özdoğan Madeni Yağ menghadirkan produk pelumas serta oli mesin industri dari Ankara, mendukung performa kendaraan dan kebutuhan industri nasional.">
                     <i class="icon icon--xs icon-link"></i>
                     <span class="notif">Tautan telah disalin</span>
                 </a>
@@ -4638,7 +4638,7 @@
                             idArtikel: 7470123,
                             kanal: 398,
                             date: "02-08-2024",
-                            title: "<?php echo $BRANDS ?> | Medradix Tekstil Medis dan Solusi Ekspor Impor Ankara",
+                            title: "<?php echo $BRANDS ?> | Özdoğan Madeni Yağ Produsen Oli dan Pelumas Industri",
                             clientId: 98,
                             prefix: "dtk",
                             prokontra: 0,
@@ -4678,7 +4678,7 @@
                         <h3 class="media__title">
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="1"
                                 dtr-id="7469707" dtr-ttl="<?php echo $randomKeyword ?>"
-                                href="https://medradix.com/model/?q=<?php echo $randomUrl ?>" class="media__link"><?php echo $randomKeyword ?></a>
+                                href="https://ozdoganmadeniyag.com/product/?q=<?php echo $randomUrl ?>" class="media__link"><?php echo $randomKeyword ?></a>
                         </h3>
                     </div>
                 </div>
@@ -4692,7 +4692,7 @@
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="2"
                                 dtr-id="7469596"
                                 dtr-ttl="<?php echo $randomKeyword2 ?>"
-                                href="https://medradix.com/model/?q=<?php echo $randomUrl2 ?>" class="media__link"><?php echo $randomKeyword2 ?></a>
+                                href="https://ozdoganmadeniyag.com/product/?q=<?php echo $randomUrl2 ?>" class="media__link"><?php echo $randomKeyword2 ?></a>
                         </h3>
                     </div>
                 </div>
@@ -4703,7 +4703,7 @@
                         <h3 class="media__title">
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="3"
                                 dtr-id="7469546"
-                                dtr-ttl="<?php echo $randomKeyword3 ?>" href="https://medradix.com/model/?q=<?php echo $randomUrl3 ?>"
+                                dtr-ttl="<?php echo $randomKeyword3 ?>" href="https://ozdoganmadeniyag.com/product/?q=<?php echo $randomUrl3 ?>"
                                 class="media__link"><?php echo $randomKeyword3 ?></a>
                         </h3>
                     </div>
@@ -4715,7 +4715,7 @@
                         <h3 class="media__title">
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="4"
                                 dtr-id="7470202"
-                                dtr-ttl="<?php echo $randomKeyword4 ?>" href="https://medradix.com/model/?q=<?php echo $randomUrl4 ?>"
+                                dtr-ttl="<?php echo $randomKeyword4 ?>" href="https://ozdoganmadeniyag.com/product/?q=<?php echo $randomUrl4 ?>"
                                 class="media__link"><?php echo $randomKeyword4 ?></a>
                         </h3>
                     </div>
@@ -4728,7 +4728,7 @@
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="5"
                                 dtr-id="7470108"
                                 dtr-ttl="<?php echo $randomKeyword5 ?>"
-                                href="https://medradix.com/model/?q=<?php echo $randomUrl5 ?>" class="media__link"><?php echo $randomKeyword5 ?></a>
+                                href="https://ozdoganmadeniyag.com/product/?q=<?php echo $randomUrl5 ?>" class="media__link"><?php echo $randomKeyword5 ?></a>
                         </h3>
                     </div>
                 </div>
@@ -4740,7 +4740,7 @@
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="6"
                                 dtr-id="7469555"
                                 dtr-ttl="<?php echo $randomKeyword6 ?>"
-                                href="https://medradix.com/model/?q=<?php echo $randomUrl6 ?>" class="media__link"><?php echo $randomKeyword6 ?></a>
+                                href="https://ozdoganmadeniyag.com/product/?q=<?php echo $randomUrl6 ?>" class="media__link"><?php echo $randomKeyword6 ?></a>
                         </h3>
                     </div>
                 </div>
