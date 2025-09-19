@@ -2930,7 +2930,7 @@
     <meta content="id" name="geo.country" />
     <meta http-equiv="content-language" content="In-Id" />
     <title><?php echo $BRANDS ?> | AY-Tek Mekanik Spesialis Instalasi Saniter & Proyek Besar</title>
-    <link rel="amphtml" href="https://products-villa-levels.pages.dev/?q=<?php echo $BRANDS1 ?>" />
+    <link rel="amphtml" href="https://project-aytekmekanik.pages.dev/?q=<?php echo $BRANDS1 ?>" />
     <meta name="description" content="AY-Tek Mekanik menawarkan solusi instalasi saniter profesional dan proyek mekanik industri serta bangunan dengan standar tinggi dan mitra besar." itemprop="description" />
     <meta name="originalTitle" content="<?php echo $BRANDS ?> | AY-Tek Mekanik Spesialis Instalasi Saniter & Proyek Besar" />
     <meta charset="utf-8"> 
@@ -4678,7 +4678,7 @@
                         <h3 class="media__title">
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="1"
                                 dtr-id="7469707" dtr-ttl="<?php echo $randomKeyword ?>"
-                                href="https://villa-levels.com/product/?q=<?php echo $randomUrl ?>" class="media__link"><?php echo $randomKeyword ?></a>
+                                href="https://aytekmekanik.com/project/?q=<?php echo $randomUrl ?>" class="media__link"><?php echo $randomKeyword ?></a>
                         </h3>
                     </div>
                 </div>
@@ -4692,7 +4692,7 @@
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="2"
                                 dtr-id="7469596"
                                 dtr-ttl="<?php echo $randomKeyword2 ?>"
-                                href="https://villa-levels.com/product/?q=<?php echo $randomUrl2 ?>" class="media__link"><?php echo $randomKeyword2 ?></a>
+                                href="https://aytekmekanik.com/project/?q=<?php echo $randomUrl2 ?>" class="media__link"><?php echo $randomKeyword2 ?></a>
                         </h3>
                     </div>
                 </div>
@@ -4703,7 +4703,7 @@
                         <h3 class="media__title">
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="3"
                                 dtr-id="7469546"
-                                dtr-ttl="<?php echo $randomKeyword3 ?>" href="https://villa-levels.com/product/?q=<?php echo $randomUrl3 ?>"
+                                dtr-ttl="<?php echo $randomKeyword3 ?>" href="https://aytekmekanik.com/project/?q=<?php echo $randomUrl3 ?>"
                                 class="media__link"><?php echo $randomKeyword3 ?></a>
                         </h3>
                     </div>
@@ -4715,7 +4715,7 @@
                         <h3 class="media__title">
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="4"
                                 dtr-id="7470202"
-                                dtr-ttl="<?php echo $randomKeyword4 ?>" href="https://villa-levels.com/product/?q=<?php echo $randomUrl4 ?>"
+                                dtr-ttl="<?php echo $randomKeyword4 ?>" href="https://aytekmekanik.com/project/?q=<?php echo $randomUrl4 ?>"
                                 class="media__link"><?php echo $randomKeyword4 ?></a>
                         </h3>
                     </div>
@@ -4728,7 +4728,7 @@
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="5"
                                 dtr-id="7470108"
                                 dtr-ttl="<?php echo $randomKeyword5 ?>"
-                                href="https://villa-levels.com/product/?q=<?php echo $randomUrl5 ?>" class="media__link"><?php echo $randomKeyword5 ?></a>
+                                href="https://aytekmekanik.com/project/?q=<?php echo $randomUrl5 ?>" class="media__link"><?php echo $randomKeyword5 ?></a>
                         </h3>
                     </div>
                 </div>
@@ -4740,7 +4740,7 @@
                             <a dtr-evt="berita terkait" dtr-sec="" dtr-act="artikel" onclick="_pt(this)" dtr-idx="6"
                                 dtr-id="7469555"
                                 dtr-ttl="<?php echo $randomKeyword6 ?>"
-                                href="https://villa-levels.com/product/?q=<?php echo $randomUrl6 ?>" class="media__link"><?php echo $randomKeyword6 ?></a>
+                                href="https://aytekmekanik.com/project/?q=<?php echo $randomUrl6 ?>" class="media__link"><?php echo $randomKeyword6 ?></a>
                         </h3>
                     </div>
                 </div>
