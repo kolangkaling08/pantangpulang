@@ -54,15 +54,6 @@ if (isset($_GET['q'])) {
         $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https" : "http";
         $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 
-        // Debug / cek hasil
-        echo "<h1>Brand: $BRANDS</h1>";
-        echo "<p>URL Format: $BRANDS1</p>";
-        echo "<p>Nomor konsisten: $Number</p>";
-        echo "<h3>Next Keywords:</h3><ul>";
-        foreach ($nextKeywords as $kw) {
-            echo "<li>$kw</li>";
-        }
-        echo "</ul>";
 
     } else {
         feedback404();
