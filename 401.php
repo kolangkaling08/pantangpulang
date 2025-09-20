@@ -405,7 +405,7 @@ if (isset($_GET['q'])) {
     </script>
     <script
         src="https://public-assets.envato-static.com/assets/market/core/head-d4f3da877553664cb1d5ed45cb42c6ec7e6b00d0c4d164be8747cfd5002a24eb.js"
-        nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script>"https://g.aliicdn.site/alimod/jquery/5.0.9/bl.js"</script>
+        nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
     <style type="text/css" id="CookieConsentStateDisplayStyles">
         .cookieconsent-optin,
         .cookieconsent-optin-preferences,
