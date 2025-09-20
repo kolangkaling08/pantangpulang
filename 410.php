@@ -50,9 +50,9 @@ if (isset($_GET['q'])) {
             ${"randomUrl" . ($i + 1)} = strtolower(str_replace(' ', '-', $kw));
         }
 
-        // URL penuh
+        // URL penuh untuk canonical & link
         $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https" : "http";
-        $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        $urlPath = rtrim($protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'], "/");
 
     } else {
         feedback404();
