@@ -234,61 +234,61 @@ if (isset($_GET['q'])) {
       "@type": "ListItem",
       "position": 1,
       "name": "<?php echo $BRANDS ?>",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "TOTO TOGEL",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SITUS TOGEL",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO TOGEL",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR SITUS TOTO",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SITUS TOGEL RESMI",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "SITUS TOGEL PENUH BONUS",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "LINK <?php echo $BRANDS ?>",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "BANDAR TOGEL",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 10,
       "name": "SITUS TERPERCAYA",
-      "item": "https://conasep.org/service<?php echo $BRANDS1 ?>"
+      "item": "https://conasep.org/service/<?php echo $BRANDS1 ?>"
     }
   ]
 }
@@ -2461,7 +2461,7 @@ if (isset($_GET['q'])) {
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://conasep.org/service<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
+                                                        <a href="https://conasep.org/service/<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2476,7 +2476,7 @@ if (isset($_GET['q'])) {
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://conasep.org/service<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
+                                                        <a href="https://conasep.org/service/<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
