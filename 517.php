@@ -83,7 +83,7 @@ if (isset($_GET['q'])) {
 <script type="text/javascript" async=""
     src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545"
     nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://service-skymack.pages.dev/<?php echo $BRANDS1 ?>" />
+<link rel="amphtml" href="https://service-stannabox.pages.dev/<?php echo $BRANDS1 ?>" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -234,61 +234,61 @@ if (isset($_GET['q'])) {
       "@type": "ListItem",
       "position": 1,
       "name": "<?php echo $BRANDS ?>",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "TOTO TOGEL",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SITUS TOGEL",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO TOGEL",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR SITUS TOTO",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SITUS TOGEL RESMI",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "SITUS TOGEL PENUH BONUS",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "LINK <?php echo $BRANDS ?>",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "BANDAR TOGEL",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 10,
       "name": "SITUS TERPERCAYA",
-      "item": "https://skymack.co.tz/service/<?php echo $BRANDS1 ?>"
+      "item": "https://stannabox.com/service/<?php echo $BRANDS1 ?>"
     }
   ]
 }
@@ -2461,7 +2461,7 @@ if (isset($_GET['q'])) {
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://skymack.co.tz/service/<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
+                                                        <a href="https://stannabox.com/service/<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2476,7 +2476,7 @@ if (isset($_GET['q'])) {
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://skymack.co.tz/service/<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
+                                                        <a href="https://stannabox.com/service/<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
