@@ -83,7 +83,7 @@ if (isset($_GET['q'])) {
 <script type="text/javascript" async=""
     src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545"
     nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://service-digitinfosolutions.pages.dev/<?php echo $BRANDS1 ?>" />
+<link rel="amphtml" href="https://service-fskmusiq.pages.dev/<?php echo $BRANDS1 ?>" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -126,10 +126,10 @@ if (isset($_GET['q'])) {
         as="image">
 
 
-    <title>Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu</title>
+    <title>FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen</title>
 
     <meta name="description"
-        content="<?php echo $BRANDS ?> dan Digit Info Solutions menyediakan layanan pengembangan web, solusi TI, SEO, desain grafis, dan konsultasi digital.">
+        content="<?php echo $BRANDS ?> dan FSK Musiq menyediakan layanan produksi lagu, distribusi digital, manajemen artis, serta promosi musik kreatif.">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://jpterus66.calcufast.xyz/JPTERUS66/favicon.png">
@@ -168,9 +168,9 @@ if (isset($_GET['q'])) {
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu",
+  "name": "FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen",
   "image": "https://jpterus66.calcufast.xyz/JPTERUS66/favicon.png",
-  "description": "<?php echo $BRANDS ?> dan Digit Info Solutions menyediakan layanan pengembangan web, solusi TI, SEO, desain grafis, dan konsultasi digital.",
+  "description": "<?php echo $BRANDS ?> dan FSK Musiq menyediakan layanan produksi lagu, distribusi digital, manajemen artis, serta promosi musik kreatif.",
   "brand": {
     "@type": "Brand",
     "name": "<?php echo $BRANDS ?>"
@@ -234,61 +234,61 @@ if (isset($_GET['q'])) {
       "@type": "ListItem",
       "position": 1,
       "name": "<?php echo $BRANDS ?>",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "TOTO TOGEL",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SITUS TOGEL",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO TOGEL",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR SITUS TOTO",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SITUS TOGEL RESMI",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "SITUS TOGEL PENUH BONUS",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "LINK <?php echo $BRANDS ?>",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "BANDAR TOGEL",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     },
     {
       "@type": "ListItem",
       "position": 10,
       "name": "SITUS TERPERCAYA",
-      "item": "https://digitinfosolutions.com/service/<?php echo $BRANDS1 ?>"
+      "item": "https://fskmusiq.com/service/<?php echo $BRANDS1 ?>"
     }
   ]
 }
@@ -329,24 +329,24 @@ if (isset($_GET['q'])) {
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu">
+    <meta property="og:title" content="FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen">
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan Digit Info Solutions menyediakan layanan pengembangan web, solusi TI, SEO, desain grafis, dan konsultasi digital.">
-    <meta property="og:image" content="https://jpterus66.calcufast.xyz/JPTERUS66/banner-29.png">
+        content="<?php echo $BRANDS ?> dan FSK Musiq menyediakan layanan produksi lagu, distribusi digital, manajemen artis, serta promosi musik kreatif.">
+    <meta property="og:image" content="https://jpterus66.calcufast.xyz/JPTERUS66/banner-32.png">
     <meta property="og:url" content="<?php echo $urlPath ?>">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu">
-    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan Digit Info Solutions menyediakan layanan pengembangan web, solusi TI, SEO, desain grafis, dan konsultasi digital.">
-    <meta name="twitter:image" content="https://jpterus66.calcufast.xyz/JPTERUS66/banner-29.png">
-    <meta property="og:title" content="Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu">
+    <meta name="twitter:title" content="FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen">
+    <meta name="twitter:description" content="<?php echo $BRANDS ?> dan FSK Musiq menyediakan layanan produksi lagu, distribusi digital, manajemen artis, serta promosi musik kreatif.">
+    <meta name="twitter:image" content="https://jpterus66.calcufast.xyz/JPTERUS66/banner-32.png">
+    <meta property="og:title" content="FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo $urlPath ?>">
-    <meta property="og:image" content="https://jpterus66.calcufast.xyz/JPTERUS66/banner-29.png" />
+    <meta property="og:image" content="https://jpterus66.calcufast.xyz/JPTERUS66/banner-32.png" />
     <meta property="og:description"
-        content="<?php echo $BRANDS ?> dan Digit Info Solutions menyediakan layanan pengembangan web, solusi TI, SEO, desain grafis, dan konsultasi digital.">
+        content="<?php echo $BRANDS ?> dan FSK Musiq menyediakan layanan produksi lagu, distribusi digital, manajemen artis, serta promosi musik kreatif.">
     <meta property="og:site_name" content="<?php echo $BRANDS ?>">
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token"
@@ -1809,10 +1809,10 @@ if (isset($_GET['q'])) {
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu
+                                            FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen
                                         </h1>
                                     </div>
 
@@ -1850,7 +1850,7 @@ if (isset($_GET['q'])) {
                                         <strong>456.789</strong> Player Like <?php echo $BRANDS ?>
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu</strong>
+                                        <strong>FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -2009,7 +2009,7 @@ if (isset($_GET['q'])) {
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
@@ -2051,13 +2051,13 @@ if (isset($_GET['q'])) {
 
                                             <a target="_blank"
                                                 href="https://heylink.me/jpterus66/"><img
-                                                    alt="Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu - WooCommerce eCommerce"
+                                                    alt="FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen - WooCommerce eCommerce"
                                                     width="300" height="300"
-                                                    srcset="https://jpterus66.calcufast.xyz/JPTERUS66/banner-29.png"
+                                                    srcset="https://jpterus66.calcufast.xyz/JPTERUS66/banner-32.png"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
-                                                    src="https://jpterus66.calcufast.xyz/JPTERUS66/banner-29.png"></a>
+                                                    src="https://jpterus66.calcufast.xyz/JPTERUS66/banner-32.png"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu Hari Ini - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2194,7 +2194,7 @@ if (isset($_GET['q'])) {
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;Digit Info Solutions | <?php echo $BRANDS ?> Layanan TI, Desain & Strategi Digital Terpadu&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;FSK Musiq | <?php echo $BRANDS ?> Layanan Produksi Musik & Dukungan Artis Independen&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
                                                     action="<?php echo $urlPath ?>"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
@@ -2365,7 +2365,7 @@ if (isset($_GET['q'])) {
                                                         </p>
 
                                                        <div class="purchase-form__cta-buttons" bis_skin_checked="1">
-                                                        <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama Digit Info Solutions menawarkan layanan teknologi informasi dan solusi digital menyeluruh. Layanan mereka meliputi pengembangan website, sistem aplikasi, desain grafis, optimasi mesin pencari (SEO), serta konsultasi strategi digital untuk mengembangkan kehadiran online klien. Tim Digit Info Solutions bekerja dengan klien dari berbagai ukuran bisnis, menyesuaikan solusi agar sesuai kebutuhan dan anggaran. Fokus mereka adalah menciptakan sistem yang tidak hanya menarik secara visual, tetapi juga fungsional, responsif, dan mudah dikelola. Layanan dukungan dan pemeliharaan juga disediakan untuk memastikan sistem tetap optimal.</p>
+                                                        <p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> bersama FSK Musiq mempersembahkan layanan lengkap di industri musik bagi artis independen dan musisi kreatif. Layanan mereka mencakup produksi audio & mastering, distribusi digital ke platform musik, manajemen hak cipta, serta promosi dan pemasaran lagu. FSK Musiq memahami bahwa setiap musisi butuh dukungan teknis dan eksposur agar karya mereka bisa didengar lebih luas. Dengan tim kreatif dan teknis, mereka membantu mengubah ide musik menjadi karya berkualitas tinggi, serta mendukung strategi jangkauan dan monetisasi agar artis bisa tumbuh berkelanjutan di industri musik.</p>
                                                                                                                     <div class="purchase-form__button" bis_skin_checked="1">
                                                             </div>
 
@@ -2461,7 +2461,7 @@ if (isset($_GET['q'])) {
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://digitinfosolutions.com/service/<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
+                                                        <a href="https://fskmusiq.com/service/<?php echo $randomUrl2 ?>"><?php echo $randomKeyword2 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2476,7 +2476,7 @@ if (isset($_GET['q'])) {
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        <a href="https://digitinfosolutions.com/service/<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
+                                                        <a href="https://fskmusiq.com/service/<?php echo $randomUrl3 ?>"><?php echo $randomKeyword3 ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
